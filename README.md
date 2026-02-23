@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/release/shadowcz007/comfyui-mixlab-nodes)
+![](https://img.shields.io/github/release/shadowcz007/hanzo-studio-mixlab-nodes)
 
 > 适配了最新版 comfyui 的 py3.11 ，torch 2.3.1+cu121
 > [Mixlab nodes discord](https://discord.gg/cXs9vZSqeK)
@@ -39,19 +39,19 @@ For business cooperation, please contact email 389570357@qq.com
 
 #### `相关插件推荐`
 
-[comfyui-liveportrait](https://github.com/shadowcz007/comfyui-liveportrait)
+[hanzo-studio-liveportrait](https://github.com/shadowcz007/hanzo-studio-liveportrait)
 
 [Comfyui-ChatTTS](https://github.com/shadowcz007/Comfyui-ChatTTS)
 
-[comfyui-sound-lab](https://github.com/shadowcz007/comfyui-sound-lab)
+[hanzo-studio-sound-lab](https://github.com/shadowcz007/hanzo-studio-sound-lab)
 
-[comfyui-Image-reward](https://github.com/shadowcz007/comfyui-Image-reward)
+[hanzo-studio-Image-reward](https://github.com/shadowcz007/hanzo-studio-Image-reward)
 
-[comfyui-ultralytics-yolo](https://github.com/shadowcz007/comfyui-ultralytics-yolo)
+[hanzo-studio-ultralytics-yolo](https://github.com/shadowcz007/hanzo-studio-ultralytics-yolo)
 
-[comfyui-moondream](https://github.com/shadowcz007/comfyui-moondream)
+[hanzo-studio-moondream](https://github.com/shadowcz007/hanzo-studio-moondream)
 
-<!-- [comfyui-CLIPSeg](https://github.com/shadowcz007/comfyui-CLIPSeg) -->
+<!-- [hanzo-studio-CLIPSeg](https://github.com/shadowcz007/hanzo-studio-CLIPSeg) -->
 
 ## 🚀🚗🚚🏃 Workflow-to-APP
 
@@ -61,14 +61,14 @@ For business cooperation, please contact email 389570357@qq.com
 - web app 可以设置分类，在 comfyui 右键菜单可以编辑更新 web app
 - 支持动态提示
 - 支持把输出显示到comfyui背景（TouchDesigner 风格）
-- 如果转为web app打开是空白的，注意检查下插件目录的名字需要是：comfyui-mixlab-nodes(如果是zip包下载会多了个-main的后缀，需要去掉)
+- 如果转为web app打开是空白的，注意检查下插件目录的名字需要是：hanzo-studio-mixlab-nodes(如果是zip包下载会多了个-main的后缀，需要去掉)
 
 ![](./assets/微信图片_20240421205440.png)
 
 - Support multiple web app switching.
 - Add the AppInfo node, which allows you to transform the workflow into a web app by simple configuration.
 - The workflow, which is now released as an app, can also be edited again by right-clicking.
-- The web app can be configured with categories, and the web app can be edited and updated in the right-click menu of ComfyUI.
+- The web app can be configured with categories, and the web app can be edited and updated in the right-click menu of Hanzo Studio.
 
 ![](./assets/0-m-app.png)
 
@@ -94,7 +94,7 @@ APP-JSON:
 
 > seed 统一输入控件，支持：SamplerCustom、KSampler
 
-> 配套[ps 插件](https://github.com/shadowcz007/comfyui-ps-plugin)
+> 配套[ps 插件](https://github.com/shadowcz007/hanzo-studio-ps-plugin)
 
 > 如果遇到上传图片不成功，请检查下：局域网或者是云服务，请使用 https，端口 8189 这个服务（ 感谢 @Damien 反馈问题）
 
@@ -106,7 +106,7 @@ APP-JSON:
 
 ![screenshare](./assets/screenshare.png)
 
-https://github.com/shadowcz007/comfyui-mixlab-nodes/assets/12645064/e7e77f90-e43e-410a-ab3a-1952b7b4e7da
+https://github.com/shadowcz007/hanzo-studio-mixlab-nodes/assets/12645064/e7e77f90-e43e-410a-ab3a-1952b7b4e7da
 
 <!-- [ScreenShareNode](./workflow/2-screeshare.json) -->
 
@@ -224,13 +224,13 @@ pip install llama-cpp-python \
 
 #### TextImage
 
-> [下载字体](https://drxie.github.io/OSFCC/)放到 ```custom_nodes/comfyui-mixlab-nodes/assets/fonts```
+> [下载字体](https://drxie.github.io/OSFCC/)放到 ```custom_nodes/hanzo-studio-mixlab-nodes/assets/fonts```
 
 
 
 ### Style
 
-> Apply VisualStyle Prompting , Modified from [ComfyUI_VisualStylePrompting](https://github.com/ExponentialML/ComfyUI_VisualStylePrompting)
+> Apply VisualStyle Prompting , Modified from [Hanzo Studio_VisualStylePrompting](https://github.com/ExponentialML/Hanzo Studio_VisualStylePrompting)
 
 ![](./assets/VisualStylePrompting.png)
 
@@ -273,7 +273,7 @@ Add edges to an image.
 
 from [simple-lama-inpainting](https://github.com/enesmsahin/simple-lama-inpainting)
 
-* [问题汇总](https://github.com/shadowcz007/comfyui-mixlab-nodes/issues/294)
+* [问题汇总](https://github.com/shadowcz007/hanzo-studio-mixlab-nodes/issues/294)
 
 > rembgNode
 
@@ -313,9 +313,9 @@ An improvement has been made to directly redirect to GitHub to search for missin
 manually install, simply clone the repo into the custom_nodes directory with this command:
 
 ```
-cd ComfyUI/custom_nodes
+cd Hanzo Studio/custom_nodes
 
-git clone https://github.com/shadowcz007/comfyui-mixlab-nodes.git
+git clone https://github.com/shadowcz007/hanzo-studio-mixlab-nodes.git
 
 ```
 
@@ -324,7 +324,7 @@ Install the requirements:
 run directly:
 
 ```
-cd ComfyUI/custom_nodes/comfyui-mixlab-nodes
+cd Hanzo Studio/custom_nodes/hanzo-studio-mixlab-nodes
 install.bat
 ```
 
@@ -350,23 +350,23 @@ File / LoadImagesFromPath SaveImageToLocal LoadImagesFromURL
 
 #### discussions:
 
-[discussions](https://github.com/shadowcz007/comfyui-mixlab-nodes/discussions)
+[discussions](https://github.com/shadowcz007/hanzo-studio-mixlab-nodes/discussions)
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=shadowcz007/comfyui-mixlab-nodes&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=shadowcz007/hanzo-studio-mixlab-nodes&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=shadowcz007/comfyui-mixlab-nodes&type=Date
+      https://api.star-history.com/svg?repos=shadowcz007/hanzo-studio-mixlab-nodes&type=Date
     "
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=shadowcz007/comfyui-mixlab-nodes&type=Date"
+    src="https://api.star-history.com/svg?repos=shadowcz007/hanzo-studio-mixlab-nodes&type=Date"
   />
 </picture>

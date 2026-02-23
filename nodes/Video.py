@@ -390,7 +390,7 @@ class ImageListReplace:
 
         return {"ui":{"_images": imss},"result": (new_images,select_images,)}
 
-# The code is based on ComfyUI-VideoHelperSuite modification.
+# The code is based on Hanzo Studio-VideoHelperSuite modification.
 class LoadVideoAndSegment:
     @classmethod
     def INPUT_TYPES(s):
@@ -451,7 +451,7 @@ class LoadVideoAndSegment:
                     continue
                 # TODO: do whatever operations need to happen, like force_size, etc
 
-                # opencv loads images in BGR format (yuck), so need to convert to RGB for ComfyUI use
+                # opencv loads images in BGR format (yuck), so need to convert to RGB for Hanzo Studio use
                 # follow up: can videos ever have an alpha channel?
                 frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
                 # convert frame to comfyui's expected format (taken from comfy's load image code)
@@ -622,7 +622,7 @@ class CombineAudioVideo:
 
         return {"ui": {"gifs": previews},"result":(v_file_path,)}
 
-# The code is based on ComfyUI-VideoHelperSuite modification.
+# The code is based on Hanzo Studio-VideoHelperSuite modification.
 class VideoCombine_Adv:
     @classmethod
     def INPUT_TYPES(s):
@@ -970,7 +970,7 @@ class scenesNode_:
                     continue
                 # TODO: do whatever operations need to happen, like force_size, etc
 
-                # opencv loads images in BGR format (yuck), so need to convert to RGB for ComfyUI use
+                # opencv loads images in BGR format (yuck), so need to convert to RGB for Hanzo Studio use
                 # follow up: can videos ever have an alpha channel?
                 frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
                 # convert frame to comfyui's expected format (taken from comfy's load image code)

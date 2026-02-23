@@ -563,7 +563,7 @@ function copyTextToClipboard (html, cb) {
     })
 }
 
-// ComfyUI\web\extensions\core\dynamicPrompts.js
+// Hanzo Studio\web\extensions\core\dynamicPrompts.js
 // 官方实现修改
 // Allows for simple dynamic prompt replacement
 // Inputs in the format {a|b} will have a random value of a or b chosen when the prompt is queued.

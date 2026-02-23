@@ -1,7 +1,7 @@
 import { app } from '../../../scripts/app.js'
 
 const repoOwner = 'shadowcz007' // 替换为仓库的所有者
-const repoName = 'comfyui-mixlab-nodes' // 替换为仓库的名称
+const repoName = 'hanzo-studio-mixlab-nodes' // 替换为仓库的名称
 
 const version = 'v0.37.0'
 
@@ -31,14 +31,14 @@ fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/releases/latest`)
       font-weight: 800;
       letter-spacing: 2px;
   }"
-  href="https://github.com/shadowcz007/comfyui-mixlab-nodes/releases/">https://github.com/shadowcz007/comfyui-mixlab-nodes/releases</a>
+  href="https://github.com/shadowcz007/hanzo-studio-mixlab-nodes/releases/">https://github.com/shadowcz007/hanzo-studio-mixlab-nodes/releases</a>
       `)
 
       // window.alert(
-      //     `Please proceed to the official repository to download the latest version.https://github.com/shadowcz007/comfyui-mixlab-nodes/releases/`
+      //     `Please proceed to the official repository to download the latest version.https://github.com/shadowcz007/hanzo-studio-mixlab-nodes/releases/`
       //   )
       //   window.open(
-      //     'https://github.com/shadowcz007/comfyui-mixlab-nodes/releases/'
+      //     'https://github.com/shadowcz007/hanzo-studio-mixlab-nodes/releases/'
       //   )
     }
   })

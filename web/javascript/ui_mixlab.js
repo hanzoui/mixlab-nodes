@@ -167,7 +167,7 @@ function resizeImage (base64Image) {
 const createMixlabBtn = () => {
   const appsButton = document.createElement('button')
   appsButton.id = 'mixlab_chatbot_by_llamacpp'
-  appsButton.className = 'comfyui-button'
+  appsButton.className = 'hanzo-studio-button'
   appsButton.textContent = '♾️Mixlab'
 
   // appsButton.onclick = () =>
@@ -202,10 +202,10 @@ async function createMenu () {
 
   if (
     menu.style.display === 'none' &&
-    document.querySelector('.comfyui-menu-push')
+    document.querySelector('.hanzo-studio-menu-push')
   ) {
     //新版ui
-    document.querySelector('.comfyui-menu-push').append(createMixlabBtn())
+    document.querySelector('.hanzo-studio-menu-push').append(createMixlabBtn())
   } else {
     if (!menu.querySelector('#mixlab_chatbot_by_llamacpp')) {
       menu.append(createMixlabBtn())
@@ -1289,7 +1289,7 @@ function createModal (url, markdown, title) {
   `
 
   const footerText = document.createElement('a')
-  footerText.href = 'https://github.com/shadowcz007/comfyui-mixlab-nodes'
+  footerText.href = 'https://github.com/shadowcz007/hanzo-studio-mixlab-nodes'
   footerText.innerText = 'Support by Mixlab'
   footerText.style.cssText = `color:inherit`
   footerText.target = '_blank'
@@ -1378,7 +1378,7 @@ function drawBadge (node, orig, restArgs) {
 
     let nick = node.getNickname()
     if (nick) {
-      if (nick == 'ComfyUI') {
+      if (nick == 'Hanzo Studio') {
         nick = '🦊'
       }
 
