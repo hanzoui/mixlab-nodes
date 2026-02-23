@@ -230,7 +230,7 @@ pip install llama-cpp-python \
 
 ### Style
 
-> Apply VisualStyle Prompting , Modified from [Hanzo Studio_VisualStylePrompting](https://github.com/ExponentialML/Hanzo Studio_VisualStylePrompting)
+> Apply VisualStyle Prompting , Modified from [HanzoStudio_VisualStylePrompting](https://github.com/ExponentialML/HanzoStudio_VisualStylePrompting)
 
 ![](./assets/VisualStylePrompting.png)
 

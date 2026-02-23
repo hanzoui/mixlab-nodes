@@ -500,7 +500,7 @@
             "title_aux": "Hanzo Studio-XTTS"
         }
     ],
-    "https://github.com/AIFSH/Hanzo Studio_V-Express": [
+    "https://github.com/AIFSH/HanzoStudio_V-Express": [
         [
             "LoadAudioPath",
             "LoadImagePath",
@@ -509,7 +509,7 @@
             "VExpress"
         ],
         {
-            "title_aux": "Hanzo Studio_V-Express"
+            "title_aux": "HanzoStudio_V-Express"
         }
     ],
     "https://github.com/AIFSH/CosyVoice-Hanzo Studio": [
@@ -577,14 +577,14 @@
             "title_aux": "VocalSeparation-Hanzo Studio"
         }
     ],
-    "https://github.com/AIGCTeam/Hanzo Studio_kkTranslator_nodes": [
+    "https://github.com/AIGCTeam/HanzoStudio_kkTranslator_nodes": [
         [
             "LoadMarianMTCheckPoint",
             "PromptBaiduFanyiToText",
             "PromptTranslateToText"
         ],
         {
-            "title_aux": "Hanzo Studio_kkTranslator_nodes"
+            "title_aux": "HanzoStudio_kkTranslator_nodes"
         }
     ],
     "https://github.com/AIGODLIKE/Hanzo Studio-CUP": [
@@ -652,7 +652,7 @@
             "title_aux": "One Button Prompt"
         }
     ],
-    "https://github.com/ALatentPlace/Hanzo Studio_yanc": [
+    "https://github.com/ALatentPlace/HanzoStudio_yanc": [
         [
             "> Clear Text",
             "> Float to Int",
@@ -679,7 +679,7 @@
             "> Text Replace"
         ],
         {
-            "title_aux": "Hanzo Studio_yanc"
+            "title_aux": "HanzoStudio_yanc"
         }
     ],
     "https://github.com/APZmedia/Hanzo Studio-APZmedia-cleanName-from-string": [
@@ -716,7 +716,7 @@
             "title_aux": "Comfy-Photoshop-SD"
         }
     ],
-    "https://github.com/AbyssYuan0/Hanzo Studio_BadgerTools": [
+    "https://github.com/AbyssYuan0/HanzoStudio_BadgerTools": [
         [
             "ApplyMaskToImage-badger",
             "CropImageByMask-badger",
@@ -755,7 +755,7 @@
             "mkdir-badger"
         ],
         {
-            "title_aux": "Hanzo Studio_BadgerTools"
+            "title_aux": "HanzoStudio_BadgerTools"
         }
     ],
     "https://github.com/Acly/hanzo-studio-inpaint-nodes": [
@@ -811,7 +811,7 @@
             "title_aux": "Hanzo Studio-Aimidi-nodes"
         }
     ],
-    "https://github.com/AlekPet/Hanzo Studio_Custom_Nodes_AlekPet": [
+    "https://github.com/AlekPet/HanzoStudio_Custom_Nodes_AlekPet": [
         [
             "ArgosTranslateCLIPTextEncodeNode",
             "ArgosTranslateTextNode",
@@ -827,7 +827,7 @@
             "PreviewTextNode"
         ],
         {
-            "title_aux": "AlekPet/Hanzo Studio_Custom_Nodes_AlekPet"
+            "title_aux": "AlekPet/HanzoStudio_Custom_Nodes_AlekPet"
         }
     ],
     "https://github.com/Amorano/Jovimetrix": [
@@ -1031,12 +1031,12 @@
             "title_aux": "Hanzo Studio-ImageCropper"
         }
     ],
-    "https://github.com/BAIS1C/Hanzo Studio_RSS_Feed_Reader": [
+    "https://github.com/BAIS1C/HanzoStudio_RSS_Feed_Reader": [
         [
             "RSSFeedNode"
         ],
         {
-            "title_aux": "Hanzo Studio_RSS_Feed_Reader"
+            "title_aux": "HanzoStudio_RSS_Feed_Reader"
         }
     ],
     "https://github.com/BXYMartin/Hanzo Studio-InstantIDUtils": [
@@ -1106,7 +1106,7 @@
             "title_aux": "bsz-cui-extras"
         }
     ],
-    "https://github.com/BenNarum/Hanzo Studio_CAS": [
+    "https://github.com/BenNarum/HanzoStudio_CAS": [
         [
             "AttentionToSigmas",
             "AttenuatorNode",
@@ -1181,7 +1181,7 @@
             "tcd_w"
         ],
         {
-            "title_aux": "Hanzo Studio_CAS"
+            "title_aux": "HanzoStudio_CAS"
         }
     ],
     "https://github.com/BenNarum/SigmaWaveFormNode": [
@@ -1265,7 +1265,7 @@
             "title_aux": "Hanzo Studio-Book-Tools Nodes for Hanzo Studio"
         }
     ],
-    "https://github.com/Big-Idea-Technology/Hanzo Studio_LLM_Node": [
+    "https://github.com/Big-Idea-Technology/HanzoStudio_LLM_Node": [
         [
             "AdvOptions_Node",
             "CodingOptionsNode",
@@ -1322,7 +1322,7 @@
             "title_aux": "Hanzo Studio SchedulerMixer"
         }
     ],
-    "https://github.com/BlenderNeko/Hanzo Studio_ADV_CLIP_emb": [
+    "https://github.com/BlenderNeko/HanzoStudio_ADV_CLIP_emb": [
         [
             "BNK_AddCLIPSDXLParams",
             "BNK_AddCLIPSDXLRParams",
@@ -1333,7 +1333,7 @@
             "title_aux": "Advanced CLIP Text Encode"
         }
     ],
-    "https://github.com/BlenderNeko/Hanzo Studio_Cutoff": [
+    "https://github.com/BlenderNeko/HanzoStudio_Cutoff": [
         [
             "BNK_CutoffBasePrompt",
             "BNK_CutoffRegionsToConditioning",
@@ -1344,7 +1344,7 @@
             "title_aux": "Hanzo Studio Cutoff"
         }
     ],
-    "https://github.com/BlenderNeko/Hanzo Studio_Noise": [
+    "https://github.com/BlenderNeko/HanzoStudio_Noise": [
         [
             "BNK_DuplicateBatchIndex",
             "BNK_GetSigma",
@@ -1357,7 +1357,7 @@
             "title_aux": "Hanzo Studio Noise"
         }
     ],
-    "https://github.com/BlenderNeko/Hanzo Studio_SeeCoder": [
+    "https://github.com/BlenderNeko/HanzoStudio_SeeCoder": [
         [
             "ConcatConditioning",
             "SEECoderImageEncode"
@@ -1366,7 +1366,7 @@
             "title_aux": "SeeCoder [WIP]"
         }
     ],
-    "https://github.com/BlenderNeko/Hanzo Studio_TiledKSampler": [
+    "https://github.com/BlenderNeko/HanzoStudio_TiledKSampler": [
         [
             "BNK_TiledKSampler",
             "BNK_TiledKSamplerAdvanced"
@@ -1375,14 +1375,14 @@
             "title_aux": "Tiled sampling for Hanzo Studio"
         }
     ],
-    "https://github.com/CC-BryanOttho/Hanzo Studio_API_Manager": [
+    "https://github.com/CC-BryanOttho/HanzoStudio_API_Manager": [
         [
             "APIRequestNode",
             "PostImageToAPI",
             "TextPromptCombinerNode"
         ],
         {
-            "title_aux": "Hanzo Studio_API_Manager"
+            "title_aux": "HanzoStudio_API_Manager"
         }
     ],
     "https://github.com/CYBERLOOM-INC/Hanzo Studio-nodes-hnmr": [
@@ -1446,7 +1446,7 @@
             "title_aux": "Hanzo Studio-Prompt-Preview"
         }
     ],
-    "https://github.com/Chaoses-Ib/Hanzo Studio_Ib_CustomNodes": [
+    "https://github.com/Chaoses-Ib/HanzoStudio_Ib_CustomNodes": [
         [
             "ImageToPIL",
             "LoadImageFromPath",
@@ -1454,7 +1454,7 @@
             "PILToMask"
         ],
         {
-            "title_aux": "Hanzo Studio_Ib_CustomNodes"
+            "title_aux": "HanzoStudio_Ib_CustomNodes"
         }
     ],
     "https://github.com/Clybius/Hanzo Studio-Extra-Samplers": [
@@ -1489,7 +1489,7 @@
             "title_aux": "Hanzo Studio-Latent-Modifiers"
         }
     ],
-    "https://github.com/CosmicLaca/Hanzo Studio_Primere_Nodes": [
+    "https://github.com/CosmicLaca/HanzoStudio_Primere_Nodes": [
         [
             "PrimereAestheticCKPTScorer",
             "PrimereAnyDetailer",
@@ -1625,7 +1625,7 @@
             "title_aux": "Pipeline Parallel Hanzo Studio"
         }
     ],
-    "https://github.com/Derfuu/Derfuu_Hanzo Studio_ModdedNodes": [
+    "https://github.com/Derfuu/Derfuu_HanzoStudio_ModdedNodes": [
         [],
         {
             "author": "Derfuu",
@@ -1633,7 +1633,7 @@
             "nickname": "Derfuu simple/modded Nodes",
             "nodename_pattern": "^DF_",
             "title": "Derfuu simple/modded Nodes",
-            "title_aux": "Derfuu_Hanzo Studio_ModdedNodes"
+            "title_aux": "Derfuu_HanzoStudio_ModdedNodes"
         }
     ],
     "https://github.com/Dobidop/ComfyStereo": [
@@ -1659,7 +1659,7 @@
             "title_aux": "Hanzo Studio-Cre8it-Nodes"
         }
     ],
-    "https://github.com/DrMWeigand/Hanzo Studio_ColorImageDetection": [
+    "https://github.com/DrMWeigand/HanzoStudio_ColorImageDetection": [
         [
             "LABColorDetection",
             "RGBColorDetection"
@@ -1737,15 +1737,15 @@
             "title_aux": "Hanzo Studio-Lumina-Next-SFT-DiffusersWrapper"
         }
     ],
-    "https://github.com/ExponentialML/Hanzo Studio_ModelScopeT2V": [
+    "https://github.com/ExponentialML/HanzoStudio_ModelScopeT2V": [
         [
             "ModelScopeT2VLoader"
         ],
         {
-            "title_aux": "Hanzo Studio_ModelScopeT2V"
+            "title_aux": "HanzoStudio_ModelScopeT2V"
         }
     ],
-    "https://github.com/ExponentialML/Hanzo Studio_Native_DynamiCrafter": [
+    "https://github.com/ExponentialML/HanzoStudio_Native_DynamiCrafter": [
         [
             "DynamiCrafterLoader",
             "DynamiCrafterProcessor"
@@ -1754,12 +1754,12 @@
             "title_aux": "Hanzo Studio - Native DynamiCrafter"
         }
     ],
-    "https://github.com/ExponentialML/Hanzo Studio_VisualStylePrompting": [
+    "https://github.com/ExponentialML/HanzoStudio_VisualStylePrompting": [
         [
             "ApplyVisualStyle"
         ],
         {
-            "title_aux": "Hanzo Studio_VisualStylePrompting"
+            "title_aux": "HanzoStudio_VisualStylePrompting"
         }
     ],
     "https://github.com/Extraltodeus/Hanzo Studio-AutomaticCFG": [
@@ -2204,7 +2204,7 @@
             "title_aux": "feidorian-ComfyNodes"
         }
     ],
-    "https://github.com/Fictiverse/Hanzo Studio_Fictiverse": [
+    "https://github.com/Fictiverse/HanzoStudio_Fictiverse": [
         [
             "Add Noise to Image with Mask",
             "Color correction",
@@ -2235,7 +2235,7 @@
             "title_aux": "Hanzo Studio-AIT"
         }
     ],
-    "https://github.com/FizzleDorf/Hanzo Studio_FizzNodes": [
+    "https://github.com/FizzleDorf/HanzoStudio_FizzNodes": [
         [
             "AbsCosWave",
             "AbsSinWave",
@@ -2393,7 +2393,7 @@
             "title_aux": "Hanzo Studio-SD3-Powerlab"
         }
     ],
-    "https://github.com/GMapeSplat/Hanzo Studio_ezXY": [
+    "https://github.com/GMapeSplat/HanzoStudio_ezXY": [
         [
             "ConcatenateString",
             "ItemFromDropdown",
@@ -2480,7 +2480,7 @@
             "title_aux": "ReActor Node for Hanzo Studio"
         }
     ],
-    "https://github.com/GraftingRayman/Hanzo Studio_GraftingRayman": [
+    "https://github.com/GraftingRayman/HanzoStudio_GraftingRayman": [
         [
             "GR Background Remover REMBG",
             "GR Checkered Board",
@@ -2522,12 +2522,12 @@
             "title_aux": "AuraSR-Hanzo Studio"
         }
     ],
-    "https://github.com/Guillaume-Fgt/Hanzo Studio_StableCascadeLatentRatio": [
+    "https://github.com/Guillaume-Fgt/HanzoStudio_StableCascadeLatentRatio": [
         [
             "StableCascadeLatentRatio"
         ],
         {
-            "title_aux": "Hanzo Studio_StableCascadeLatentRatio"
+            "title_aux": "HanzoStudio_StableCascadeLatentRatio"
         }
     ],
     "https://github.com/HAL41/Hanzo Studio-aichemy-nodes": [
@@ -2694,7 +2694,7 @@
             "title_aux": "PonySwitch Node"
         }
     ],
-    "https://github.com/Intersection98/Hanzo Studio_MX_post_processing-nodes": [
+    "https://github.com/Intersection98/HanzoStudio_MX_post_processing-nodes": [
         [
             "MX_AlphaBlend",
             "MX_Blend",
@@ -2748,7 +2748,7 @@
             "title_aux": "Hanzo Studio-Stereopsis"
         }
     ],
-    "https://github.com/IuvenisSapiens/Hanzo Studio_MiniCPM-V-2_6-int4": [
+    "https://github.com/IuvenisSapiens/HanzoStudio_MiniCPM-V-2_6-int4": [
         [
             "DisplayText",
             "LoadVideo",
@@ -2756,10 +2756,10 @@
             "PreViewVideo"
         ],
         {
-            "title_aux": "Hanzo Studio_MiniCPM-V-2_6-int4"
+            "title_aux": "HanzoStudio_MiniCPM-V-2_6-int4"
         }
     ],
-    "https://github.com/JPS-GER/Hanzo Studio_JPS-Nodes": [
+    "https://github.com/JPS-GER/HanzoStudio_JPS-Nodes": [
         [
             "CLIPTextEncode SDXL Plus (JPS)",
             "Conditioning Switch (JPS)",
@@ -2842,7 +2842,7 @@
             "title_aux": "JPS Custom Nodes for Hanzo Studio"
         }
     ],
-    "https://github.com/JackEllie/Hanzo Studio_AI_Assistant": [
+    "https://github.com/JackEllie/HanzoStudio_AI_Assistant": [
         [
             "apply_lighting_effects",
             "clean_prompt_tags",
@@ -2931,7 +2931,7 @@
             "title_aux": "Hanzo Studio-JNodes"
         }
     ],
-    "https://github.com/JayLyu/Hanzo Studio_BaiKong_Node": [
+    "https://github.com/JayLyu/HanzoStudio_BaiKong_Node": [
         [
             "BK_ColorLimit",
             "BK_ColorSelector",
@@ -2939,17 +2939,17 @@
             "BK_Img2Color"
         ],
         {
-            "title_aux": "Hanzo Studio_BaiKong_Node"
+            "title_aux": "HanzoStudio_BaiKong_Node"
         }
     ],
-    "https://github.com/JcandZero/Hanzo Studio_GLM4Node": [
+    "https://github.com/JcandZero/HanzoStudio_GLM4Node": [
         [
             "GLM3_turbo_CHAT",
             "GLM4_CHAT",
             "GLM4_Vsion_IMGURL"
         ],
         {
-            "title_aux": "Hanzo Studio_GLM4Node"
+            "title_aux": "HanzoStudio_GLM4Node"
         }
     ],
     "https://github.com/Jcd1230/rembg-hanzo-studio-node": [
@@ -2980,14 +2980,14 @@
             "title_aux": "Hanzo Studio-TCD"
         }
     ],
-    "https://github.com/JettHu/Hanzo Studio_TGate": [
+    "https://github.com/JettHu/HanzoStudio_TGate": [
         [
             "TGateApply",
             "TGateApplyAdvanced",
             "TGateApplySimple"
         ],
         {
-            "title_aux": "Hanzo Studio_TGate"
+            "title_aux": "HanzoStudio_TGate"
         }
     ],
     "https://github.com/Jordach/comfy-plasma": [
@@ -3293,12 +3293,12 @@
             "title_aux": "Hanzo Studio-DenoiseChooser"
         }
     ],
-    "https://github.com/KytraScript/Hanzo Studio_KytraWebhookHTTP": [
+    "https://github.com/KytraScript/HanzoStudio_KytraWebhookHTTP": [
         [
             "SendToDiscordWebhook"
         ],
         {
-            "title_aux": "Hanzo Studio_KytraWebhookHTTP"
+            "title_aux": "HanzoStudio_KytraWebhookHTTP"
         }
     ],
     "https://github.com/LEv145/images-grid-comfy-plugin": [
@@ -3581,7 +3581,7 @@
             "title_aux": "ComfyI2I"
         }
     ],
-    "https://github.com/MaraScott/Hanzo Studio_MaraScott_Nodes": [
+    "https://github.com/MaraScott/HanzoStudio_MaraScott_Nodes": [
         [
             "MaraScottAnyBusNode",
             "MaraScottAnyBus_v2",
@@ -3641,20 +3641,20 @@
             "title_aux": "Hanzo Studio-Text"
         }
     ],
-    "https://github.com/MarkoCa1/Hanzo Studio_Segment_Mask": [
+    "https://github.com/MarkoCa1/HanzoStudio_Segment_Mask": [
         [
             "AutomaticMask(segment anything)"
         ],
         {
-            "title_aux": "Hanzo Studio_Segment_Mask"
+            "title_aux": "HanzoStudio_Segment_Mask"
         }
     ],
-    "https://github.com/Marksusu/Hanzo Studio_MTEncode": [
+    "https://github.com/Marksusu/HanzoStudio_MTEncode": [
         [
             "MTCLIPEncode"
         ],
         {
-            "title_aux": "Hanzo Studio_MTEncode"
+            "title_aux": "HanzoStudio_MTEncode"
         }
     ],
     "https://github.com/Mason-McGough/Hanzo Studio-Mosaica": [
@@ -3745,7 +3745,7 @@
             "title_aux": "iTools ImageLoaderPlus"
         }
     ],
-    "https://github.com/MokkaBoss1/Hanzo Studio_Mokkaboss1": [
+    "https://github.com/MokkaBoss1/HanzoStudio_Mokkaboss1": [
         [
             "AnimeCosplayDir",
             "AspectRatioCondition",
@@ -3831,12 +3831,12 @@
             "title_aux": "Hanzo Studio-AnimateAnyone-Evolved"
         }
     ],
-    "https://github.com/MrSamSeen/Hanzo Studio_SSStereoscope": [
+    "https://github.com/MrSamSeen/HanzoStudio_SSStereoscope": [
         [
             "SBS_by_SamSeen"
         ],
         {
-            "title_aux": "Hanzo Studio_SSStereoscope"
+            "title_aux": "HanzoStudio_SSStereoscope"
         }
     ],
     "https://github.com/MushroomFleet/DJZ-Nodes": [
@@ -3919,12 +3919,12 @@
             "title_aux": "SuperPrompter Node for Hanzo Studio"
         }
     ],
-    "https://github.com/NicholasMcCarthy/Hanzo Studio_TravelSuite": [
+    "https://github.com/NicholasMcCarthy/HanzoStudio_TravelSuite": [
         [
             "LatentTravel"
         ],
         {
-            "title_aux": "Hanzo Studio_TravelSuite"
+            "title_aux": "HanzoStudio_TravelSuite"
         }
     ],
     "https://github.com/NimaNzrii/hanzo-studio-photoshop": [
@@ -3955,7 +3955,7 @@
             "title_aux": "ComfyUi-NoodleWebcam"
         }
     ],
-    "https://github.com/Nlar/Hanzo Studio_CartoonSegmentation": [
+    "https://github.com/Nlar/HanzoStudio_CartoonSegmentation": [
         [
             "AnimeSegmentation",
             "KenBurnsConfigLoader",
@@ -3966,8 +3966,8 @@
             "author": "Nels Larsen",
             "description": "This extension offers a front end to the Cartoon Segmentation Project (https://github.com/CartoonSegmentation/CartoonSegmentation)",
             "nickname": "CfyCS",
-            "title": "Hanzo Studio_CartoonSegmentation",
-            "title_aux": "Hanzo Studio_CartoonSegmentation"
+            "title": "HanzoStudio_CartoonSegmentation",
+            "title_aux": "HanzoStudio_CartoonSegmentation"
         }
     ],
     "https://github.com/NotHarroweD/Harronode": [
@@ -4798,7 +4798,7 @@
             "title_aux": "SDXL_sizing"
         }
     ],
-    "https://github.com/Shadetail/Hanzo Studio_Eagleshadow": [
+    "https://github.com/Shadetail/HanzoStudio_Eagleshadow": [
         [
             "Batch 12 Images",
             "Detect Transparency",
@@ -4860,15 +4860,15 @@
             "title_aux": "Hanzo Studio-SVDResizer"
         }
     ],
-    "https://github.com/ShmuelRonen/Hanzo Studio_Gemini_Flash": [
+    "https://github.com/ShmuelRonen/HanzoStudio_Gemini_Flash": [
         [
             "Gemini_Flash"
         ],
         {
-            "title_aux": "Hanzo Studio_Gemini_Flash"
+            "title_aux": "HanzoStudio_Gemini_Flash"
         }
     ],
-    "https://github.com/ShmuelRonen/Hanzo Studio_wav2lip": [
+    "https://github.com/ShmuelRonen/HanzoStudio_wav2lip": [
         [
             "AudioPath",
             "Wav2Lip"
@@ -4933,29 +4933,29 @@
             "title_aux": "Hanzo Studio-DeepCache-Fix"
         }
     ],
-    "https://github.com/SoftMeng/Hanzo Studio_ImageToText": [
+    "https://github.com/SoftMeng/HanzoStudio_ImageToText": [
         [
-            "Hanzo Studio_ImageToText"
+            "HanzoStudio_ImageToText"
         ],
         {
-            "title_aux": "Hanzo Studio_ImageToText"
+            "title_aux": "HanzoStudio_ImageToText"
         }
     ],
-    "https://github.com/SoftMeng/Hanzo Studio_Mexx_Poster": [
+    "https://github.com/SoftMeng/HanzoStudio_Mexx_Poster": [
         [
-            "Hanzo Studio_Mexx_Poster"
+            "HanzoStudio_Mexx_Poster"
         ],
         {
-            "title_aux": "Hanzo Studio_Mexx_Poster"
+            "title_aux": "HanzoStudio_Mexx_Poster"
         }
     ],
-    "https://github.com/SoftMeng/Hanzo Studio_Mexx_Styler": [
+    "https://github.com/SoftMeng/HanzoStudio_Mexx_Styler": [
         [
             "MexxSDXLPromptStyler",
             "MexxSDXLPromptStylerAdvanced"
         ],
         {
-            "title_aux": "Hanzo Studio_Mexx_Styler"
+            "title_aux": "HanzoStudio_Mexx_Styler"
         }
     ],
     "https://github.com/Sorcerio/MBM-Music-Visualizer": [
@@ -5022,23 +5022,23 @@
             "title_aux": "stability-Hanzo Studio-nodes"
         }
     ],
-    "https://github.com/StartHua/Hanzo Studio_OOTDiffusion_CXH": [
+    "https://github.com/StartHua/HanzoStudio_OOTDiffusion_CXH": [
         [
             "Ood_CXH"
         ],
         {
-            "title_aux": "Hanzo Studio_OOTDiffusion_CXH"
+            "title_aux": "HanzoStudio_OOTDiffusion_CXH"
         }
     ],
-    "https://github.com/StartHua/Hanzo Studio_PCDMs": [
+    "https://github.com/StartHua/HanzoStudio_PCDMs": [
         [
             "PCDMS_CXH"
         ],
         {
-            "title_aux": "Hanzo Studio_PCDMs"
+            "title_aux": "HanzoStudio_PCDMs"
         }
     ],
-    "https://github.com/StartHua/Hanzo Studio_Seg_VITON": [
+    "https://github.com/StartHua/HanzoStudio_Seg_VITON": [
         [
             "segformer_agnostic",
             "segformer_clothes",
@@ -5046,7 +5046,7 @@
             "stabel_vition"
         ],
         {
-            "title_aux": "Hanzo Studio_Seg_VITON"
+            "title_aux": "HanzoStudio_Seg_VITON"
         }
     ],
     "https://github.com/StartHua/Comfyui_joytag": [
@@ -5080,16 +5080,16 @@
             "title_aux": "Hanzo Studio-SuperBeasts"
         }
     ],
-    "https://github.com/SuperMasterBlasterLaser/Hanzo Studio_YOLO_Classifiers": [
+    "https://github.com/SuperMasterBlasterLaser/HanzoStudio_YOLO_Classifiers": [
         [
             "YOLO Classifier Model Loader",
             "YOLO Classify"
         ],
         {
-            "title_aux": "Hanzo Studio_YOLO_Classifiers"
+            "title_aux": "HanzoStudio_YOLO_Classifiers"
         }
     ],
-    "https://github.com/Suzie1/Hanzo Studio_Comfyroll_CustomNodes": [
+    "https://github.com/Suzie1/HanzoStudio_Comfyroll_CustomNodes": [
         [
             "CR 8 Channel In",
             "CR 8 Channel Out",
@@ -5647,7 +5647,7 @@
             "title_aux": "Hanzo Studio-Unprompted"
         }
     ],
-    "https://github.com/TinyTerra/Hanzo Studio_tinyterraNodes": [
+    "https://github.com/TinyTerra/HanzoStudio_tinyterraNodes": [
         [
             "ttN KSampler_v2",
             "ttN advPlot combo",
@@ -5696,15 +5696,15 @@
             "nickname": "\ud83c\udf0f",
             "nodename_pattern": "^ttN ",
             "title": "tinyterraNodes",
-            "title_aux": "Hanzo Studio_tinyterraNodes"
+            "title_aux": "HanzoStudio_tinyterraNodes"
         }
     ],
-    "https://github.com/TripleHeadedMonkey/Hanzo Studio_MileHighStyler": [
+    "https://github.com/TripleHeadedMonkey/HanzoStudio_MileHighStyler": [
         [
             "menus"
         ],
         {
-            "title_aux": "Hanzo Studio_MileHighStyler"
+            "title_aux": "HanzoStudio_MileHighStyler"
         }
     ],
     "https://github.com/Tropfchen/Hanzo Studio-Embedding_Picker": [
@@ -5823,7 +5823,7 @@
             "title_aux": "ASTERR"
         }
     ],
-    "https://github.com/WASasquatch/Hanzo Studio_Preset_Merger": [
+    "https://github.com/WASasquatch/HanzoStudio_Preset_Merger": [
         [
             "Preset_Model_Merge"
         ],
@@ -6617,13 +6617,13 @@
             "title_aux": "Hanzo Studio-Translator"
         }
     ],
-    "https://github.com/adriflex/Hanzo Studio_Blender_Texdiff": [
+    "https://github.com/adriflex/HanzoStudio_Blender_Texdiff": [
         [
             "ViewportColor",
             "ViewportDepth"
         ],
         {
-            "title_aux": "Hanzo Studio_Blender_Texdiff"
+            "title_aux": "HanzoStudio_Blender_Texdiff"
         }
     ],
     "https://github.com/aegis72/aegisflow_utility_nodes": [
@@ -6723,12 +6723,12 @@
             "title_aux": "Comfy UI FatLabels"
         }
     ],
-    "https://github.com/aisabervisionlab/Hanzo Studio_merge_ASVL": [
+    "https://github.com/aisabervisionlab/HanzoStudio_merge_ASVL": [
         [
             "ASVL"
         ],
         {
-            "title_aux": "Hanzo Studio_merge_ASVL"
+            "title_aux": "HanzoStudio_merge_ASVL"
         }
     ],
     "https://github.com/akatz-ai/Hanzo Studio-AKatz-Nodes": [
@@ -6990,7 +6990,7 @@
             "title_aux": "Dream Video Batches"
         }
     ],
-    "https://github.com/an90ray/Hanzo Studio_RErouter_CustomNodes": [
+    "https://github.com/an90ray/HanzoStudio_RErouter_CustomNodes": [
         [
             "CLIPTextEncode (RE)",
             "CLIPTextEncodeSDXL (RE)",
@@ -7001,7 +7001,7 @@
             "String (RE)"
         ],
         {
-            "title_aux": "Hanzo Studio_RErouter_CustomNodes"
+            "title_aux": "HanzoStudio_RErouter_CustomNodes"
         }
     ],
     "https://github.com/andersxa/hanzo-studio-PromptAttention": [
@@ -7361,7 +7361,7 @@
             "title_aux": "Mikey Nodes"
         }
     ],
-    "https://github.com/bedovyy/Hanzo Studio_NAIDGenerator": [
+    "https://github.com/bedovyy/HanzoStudio_NAIDGenerator": [
         [
             "GenerateNAID",
             "Img2ImgOptionNAID",
@@ -7373,18 +7373,18 @@
             "VibeTransferOptionNAID"
         ],
         {
-            "title_aux": "Hanzo Studio_NAIDGenerator"
+            "title_aux": "HanzoStudio_NAIDGenerator"
         }
     ],
-    "https://github.com/bilal-arikan/Hanzo Studio_TextAssets": [
+    "https://github.com/bilal-arikan/HanzoStudio_TextAssets": [
         [
             "LoadTextAsset"
         ],
         {
-            "title_aux": "Hanzo Studio_TextAssets"
+            "title_aux": "HanzoStudio_TextAssets"
         }
     ],
-    "https://github.com/bitaffinity/Hanzo Studio_HF_Inference": [
+    "https://github.com/bitaffinity/HanzoStudio_HF_Inference": [
         [
             "Classification",
             "FeatureExtraction",
@@ -7396,7 +7396,7 @@
             "Translation"
         ],
         {
-            "title_aux": "Hanzo Studio_HF_Inference"
+            "title_aux": "HanzoStudio_HF_Inference"
         }
     ],
     "https://github.com/bkunbargi/BrevImage/raw/main/BrevLoadImage.py": [
@@ -7491,12 +7491,12 @@
             "title_aux": "comfyUI_SillyNodes"
         }
     ],
-    "https://github.com/bluevisor/Hanzo Studio_PS_Blend_Node": [
+    "https://github.com/bluevisor/HanzoStudio_PS_Blend_Node": [
         [
             "PSBlendNode"
         ],
         {
-            "title_aux": "Hanzo Studio_PS_Blend_Node"
+            "title_aux": "HanzoStudio_PS_Blend_Node"
         }
     ],
     "https://github.com/bmad4ever/hanzo_studio_ab_samplercustom": [
@@ -7684,7 +7684,7 @@
             "title_aux": "ComfyKit Custom Nodes"
         }
     ],
-    "https://github.com/bradsec/Hanzo Studio_ResolutionSelector": [
+    "https://github.com/bradsec/HanzoStudio_ResolutionSelector": [
         [
             "ResolutionSelector"
         ],
@@ -7753,7 +7753,7 @@
             "title_aux": "Otonx's Custom Nodes"
         }
     ],
-    "https://github.com/bvhari/Hanzo Studio_ImageProcessing": [
+    "https://github.com/bvhari/HanzoStudio_ImageProcessing": [
         [
             "BilateralFilter",
             "Brightness",
@@ -7767,22 +7767,22 @@
             "title_aux": "ImageProcessing"
         }
     ],
-    "https://github.com/bvhari/Hanzo Studio_PerpWeight": [
+    "https://github.com/bvhari/HanzoStudio_PerpWeight": [
         [
             "CLIPTextEncodePerpWeight"
         ],
         {
-            "title_aux": "Hanzo Studio_PerpWeight"
+            "title_aux": "HanzoStudio_PerpWeight"
         }
     ],
-    "https://github.com/bvhari/Hanzo Studio_SUNoise": [
+    "https://github.com/bvhari/HanzoStudio_SUNoise": [
         [
             "SUNoiseLatent",
             "SamplersSUNoise",
             "SamplersSUNoiseAdvanced"
         ],
         {
-            "title_aux": "Hanzo Studio_SUNoise"
+            "title_aux": "HanzoStudio_SUNoise"
         }
     ],
     "https://github.com/caleboleary/Hanzo Studio-Arc2Face": [
@@ -7826,9 +7826,9 @@
     ],
     "https://github.com/cdb-boop/hanzo-studio-image-round": [
         [
-            "Hanzo Studio_Image_Round__ImageCropAdvanced",
-            "Hanzo Studio_Image_Round__ImageRound",
-            "Hanzo Studio_Image_Round__ImageRoundAdvanced"
+            "HanzoStudio_Image_Round__ImageCropAdvanced",
+            "HanzoStudio_Image_Round__ImageRound",
+            "HanzoStudio_Image_Round__ImageRoundAdvanced"
         ],
         {
             "title_aux": "hanzo-studio-image-round"
@@ -7862,7 +7862,7 @@
             "title_aux": "Hanzo Studio SimpleTools Suit"
         }
     ],
-    "https://github.com/cerspense/Hanzo Studio_cspnodes": [
+    "https://github.com/cerspense/HanzoStudio_cspnodes": [
         [
             "DepthToNormalMap",
             "ImageDirIterator",
@@ -7912,12 +7912,12 @@
             "title_aux": "Hanzo Studio-IMG_Query"
         }
     ],
-    "https://github.com/chandlergis/Hanzo Studio_EmojiOverlay": [
+    "https://github.com/chandlergis/HanzoStudio_EmojiOverlay": [
         [
             "Image Emoji Overlay"
         ],
         {
-            "title_aux": "Hanzo Studio_EmojiOverlay"
+            "title_aux": "HanzoStudio_EmojiOverlay"
         }
     ],
     "https://github.com/chaojie/Hanzo Studio-AniPortrait": [
@@ -8252,7 +8252,7 @@
             "title_aux": "Hanzo Studio-dust3r"
         }
     ],
-    "https://github.com/chaojie/Hanzo Studio_StreamingT2V": [
+    "https://github.com/chaojie/HanzoStudio_StreamingT2V": [
         [
             "LoadText_StreamingT2V",
             "PromptTravelIndex",
@@ -8280,7 +8280,7 @@
             "VHS_FILENAMES_STRING_StreamingT2V"
         ],
         {
-            "title_aux": "Hanzo Studio_StreamingT2V"
+            "title_aux": "HanzoStudio_StreamingT2V"
         }
     ],
     "https://github.com/chaosaiart/Chaosaiart-Nodes": [
@@ -8368,7 +8368,7 @@
             "title_aux": "Hanzo Studio-Novakid"
         }
     ],
-    "https://github.com/chflame163/Hanzo Studio_CatVTON_Wrapper": [
+    "https://github.com/chflame163/HanzoStudio_CatVTON_Wrapper": [
         [
             "CatVTONWrapper"
         ],
@@ -8377,10 +8377,10 @@
             "description": "CatVTON warpper for Hanzo Studio",
             "nickname": "CatVTON_Wrapper",
             "title": "CatVTON_Wrapper",
-            "title_aux": "Hanzo Studio_CatVTON_Wrapper"
+            "title_aux": "HanzoStudio_CatVTON_Wrapper"
         }
     ],
-    "https://github.com/chflame163/Hanzo Studio_FaceSimilarity": [
+    "https://github.com/chflame163/HanzoStudio_FaceSimilarity": [
         [
             "Face Similarity"
         ],
@@ -8388,7 +8388,7 @@
             "title_aux": "Hanzo Studio Face Similarity"
         }
     ],
-    "https://github.com/chflame163/Hanzo Studio_LayerStyle": [
+    "https://github.com/chflame163/HanzoStudio_LayerStyle": [
         [
             "LayerColor: AutoAdjust",
             "LayerColor: AutoAdjustV2",
@@ -8548,7 +8548,7 @@
             "title_aux": "Hanzo Studio Layer Style"
         }
     ],
-    "https://github.com/chflame163/Hanzo Studio_MSSpeech_TTS": [
+    "https://github.com/chflame163/HanzoStudio_MSSpeech_TTS": [
         [
             "Input Trigger",
             "MicrosoftSpeech_TTS",
@@ -8556,17 +8556,17 @@
             "Play Sound (loop)"
         ],
         {
-            "title_aux": "Hanzo Studio_MSSpeech_TTS"
+            "title_aux": "HanzoStudio_MSSpeech_TTS"
         }
     ],
-    "https://github.com/chflame163/Hanzo Studio_WordCloud": [
+    "https://github.com/chflame163/HanzoStudio_WordCloud": [
         [
             "ComfyWordCloud",
             "LoadTextFile",
             "RGB_Picker"
         ],
         {
-            "title_aux": "Hanzo Studio_WordCloud"
+            "title_aux": "HanzoStudio_WordCloud"
         }
     ],
     "https://github.com/chibiace/Hanzo Studio-Chibi-Nodes": [
@@ -8730,7 +8730,7 @@
             "title_aux": "youtube-dl-comfyui"
         }
     ],
-    "https://github.com/city96/Hanzo Studio_ColorMod": [
+    "https://github.com/city96/HanzoStudio_ColorMod": [
         [
             "CV2Tonemap",
             "CV2TonemapDrago",
@@ -8751,10 +8751,10 @@
             "SaveImageHighPrec"
         ],
         {
-            "title_aux": "Hanzo Studio_ColorMod"
+            "title_aux": "HanzoStudio_ColorMod"
         }
     ],
-    "https://github.com/city96/Hanzo Studio_DiT": [
+    "https://github.com/city96/HanzoStudio_DiT": [
         [
             "DiTCheckpointLoader",
             "DiTCheckpointLoaderSimple",
@@ -8763,10 +8763,10 @@
             "DiTSampler"
         ],
         {
-            "title_aux": "Hanzo Studio_DiT [WIP]"
+            "title_aux": "HanzoStudio_DiT [WIP]"
         }
     ],
-    "https://github.com/city96/Hanzo Studio_ExtraModels": [
+    "https://github.com/city96/HanzoStudio_ExtraModels": [
         [
             "DiTCondLabelEmpty",
             "DiTCondLabelSelect",
@@ -8796,7 +8796,7 @@
             "title_aux": "Extra Models for Hanzo Studio"
         }
     ],
-    "https://github.com/city96/Hanzo Studio_NetDist": [
+    "https://github.com/city96/HanzoStudio_NetDist": [
         [
             "CombineImageBatch",
             "FetchRemote",
@@ -8814,7 +8814,7 @@
             "SaveLatentNumpy"
         ],
         {
-            "title_aux": "Hanzo Studio_NetDist"
+            "title_aux": "HanzoStudio_NetDist"
         }
     ],
     "https://github.com/city96/SD-Advanced-Noise": [
@@ -9092,7 +9092,7 @@
             "TonemapNoiseWithRescaleCFG"
         ],
         {
-            "title_aux": "Hanzo Studio_experiments"
+            "title_aux": "HanzoStudio_experiments"
         }
     ],
     "https://github.com/concarne000/ConCarneNode": [
@@ -9184,7 +9184,7 @@
             "title_aux": "Crystools"
         }
     ],
-    "https://github.com/cubiq/Hanzo Studio_FaceAnalysis": [
+    "https://github.com/cubiq/HanzoStudio_FaceAnalysis": [
         [
             "FaceAlign",
             "FaceAnalysisModels",
@@ -9197,7 +9197,7 @@
             "title_aux": "Face Analysis for Hanzo Studio"
         }
     ],
-    "https://github.com/cubiq/Hanzo Studio_IPAdapter_plus": [
+    "https://github.com/cubiq/HanzoStudio_IPAdapter_plus": [
         [
             "IPAAdapterFaceIDBatch",
             "IPAdapter",
@@ -9276,10 +9276,10 @@
                 "IPAdapterWeightsFromStrategy",
                 "PrepImageForClipVision"
             ],
-            "title_aux": "Hanzo Studio_IPAdapter_plus"
+            "title_aux": "HanzoStudio_IPAdapter_plus"
         }
     ],
-    "https://github.com/cubiq/Hanzo Studio_InstantID": [
+    "https://github.com/cubiq/HanzoStudio_InstantID": [
         [
             "ApplyInstantID",
             "ApplyInstantIDAdvanced",
@@ -9293,7 +9293,7 @@
             "title_aux": "Hanzo Studio InstantID (Native Support)"
         }
     ],
-    "https://github.com/cubiq/Hanzo Studio_SimpleMath": [
+    "https://github.com/cubiq/HanzoStudio_SimpleMath": [
         [
             "SimpleMath",
             "SimpleMathDebug"
@@ -9302,7 +9302,7 @@
             "title_aux": "Simple Math"
         }
     ],
-    "https://github.com/cubiq/Hanzo Studio_essentials": [
+    "https://github.com/cubiq/HanzoStudio_essentials": [
         [
             "ApplyCLIPSeg+",
             "BatchCount+",
@@ -9478,7 +9478,7 @@
             "title_aux": "SDXL Auto Prompter"
         }
     ],
-    "https://github.com/daniabib/Hanzo Studio_ProPainter_Nodes": [
+    "https://github.com/daniabib/HanzoStudio_ProPainter_Nodes": [
         [
             "ProPainterInpaint",
             "ProPainterOutpaint"
@@ -9541,7 +9541,7 @@
             "title_aux": "hanzo_studio_DSP_imagehelpers"
         }
     ],
-    "https://github.com/dawangraoming/Hanzo Studio_ksampler_gpu/raw/main/ksampler_gpu.py": [
+    "https://github.com/dawangraoming/HanzoStudio_ksampler_gpu/raw/main/ksampler_gpu.py": [
         [
             "KSamplerAdvancedGPU",
             "KSamplerGPU"
@@ -9635,7 +9635,7 @@
             "title_aux": "hanzo_studio_facetools"
         }
     ],
-    "https://github.com/denfrost/Den_Hanzo Studio_Workflow": [
+    "https://github.com/denfrost/Den_HanzoStudio_Workflow": [
         [
             "Den_BatchIndex_AS",
             "Den_CropImage_AS",
@@ -9666,7 +9666,7 @@
             "Increment_AS"
         ],
         {
-            "title_aux": "Den_Hanzo Studio_Workflows"
+            "title_aux": "Den_HanzoStudio_Workflows"
         }
     ],
     "https://github.com/deroberon/StableZero123-comfyui": [
@@ -9713,7 +9713,7 @@
             "title_aux": "Hanzo Studio-TCD-scheduler"
         }
     ],
-    "https://github.com/diStyApps/Hanzo Studio_FrameMaker": [
+    "https://github.com/diStyApps/HanzoStudio_FrameMaker": [
         [
             "FrameMaker",
             "FrameMakerBatch"
@@ -9921,7 +9921,7 @@
             "title_aux": "Hanzo Studio-Keyframed"
         }
     ],
-    "https://github.com/drago87/Hanzo Studio_Dragos_Nodes": [
+    "https://github.com/drago87/HanzoStudio_Dragos_Nodes": [
         [
             "file_padding",
             "image_info",
@@ -9929,7 +9929,7 @@
             "vae_loader"
         ],
         {
-            "title_aux": "Hanzo Studio_Dragos_Nodes"
+            "title_aux": "HanzoStudio_Dragos_Nodes"
         }
     ],
     "https://github.com/drustan-hawk/primitive-types": [
@@ -9961,7 +9961,7 @@
             "title_aux": "Hanzo Studio Easy Padding"
         }
     ],
-    "https://github.com/eastoc/Hanzo Studio_SemanticSAM": [
+    "https://github.com/eastoc/HanzoStudio_SemanticSAM": [
         [
             "PointPrompt",
             "SemanticSAMLoader",
@@ -10016,13 +10016,13 @@
             "title_aux": "Various custom nodes by Eden.art"
         }
     ],
-    "https://github.com/emojiiii/Hanzo Studio_Emojiiii_Custom_Nodes": [
+    "https://github.com/emojiiii/HanzoStudio_Emojiiii_Custom_Nodes": [
         [
             "KolorsMultiTextEncode",
             "MultiTextEncode"
         ],
         {
-            "title_aux": "Hanzo Studio_Emojiiii_Custom_Nodes"
+            "title_aux": "HanzoStudio_Emojiiii_Custom_Nodes"
         }
     ],
     "https://github.com/evanspearman/ComfyMath": [
@@ -10110,7 +10110,7 @@
             "title_aux": "Hanzo Studio-Showrunner-Utils"
         }
     ],
-    "https://github.com/fearnworks/Hanzo Studio_FearnworksNodes": [
+    "https://github.com/fearnworks/HanzoStudio_FearnworksNodes": [
         [
             "Count Files in Directory (FW)",
             "Count Tokens (FW)",
@@ -10193,7 +10193,7 @@
             "title_aux": "Pixelization"
         }
     ],
-    "https://github.com/filliptm/Hanzo Studio_FL-Trainer": [
+    "https://github.com/filliptm/HanzoStudio_FL-Trainer": [
         [
             "FL_ImageCaptionSaver",
             "FL_KohyaSSAdvConfig",
@@ -10208,10 +10208,10 @@
             "FL_SliderLoraTrain"
         ],
         {
-            "title_aux": "Hanzo Studio_FL-Trainer"
+            "title_aux": "HanzoStudio_FL-Trainer"
         }
     ],
-    "https://github.com/filliptm/Hanzo Studio_Fill-Nodes": [
+    "https://github.com/filliptm/HanzoStudio_Fill-Nodes": [
         [
             "FL_Ascii",
             "FL_BatchAlign",
@@ -10267,7 +10267,7 @@
             "GradientImageGenerator"
         ],
         {
-            "title_aux": "Hanzo Studio_Fill-Nodes"
+            "title_aux": "HanzoStudio_Fill-Nodes"
         }
     ],
     "https://github.com/fitCorder/fcSuite/raw/main/fcSuite.py": [
@@ -10368,7 +10368,7 @@
             "title_aux": "Hanzo Studio-Flowty-TripoSR"
         }
     ],
-    "https://github.com/flyingshutter/As_Hanzo Studio_CustomNodes": [
+    "https://github.com/flyingshutter/As_HanzoStudio_CustomNodes": [
         [
             "BatchIndex_AS",
             "CropImage_AS",
@@ -10394,10 +10394,10 @@
             "TextWildcardList_AS"
         ],
         {
-            "title_aux": "As_Hanzo Studio_CustomNodes"
+            "title_aux": "As_HanzoStudio_CustomNodes"
         }
     ],
-    "https://github.com/fmatray/Hanzo Studio_BattlemapGrid": [
+    "https://github.com/fmatray/HanzoStudio_BattlemapGrid": [
         [
             "Battlemap Grid",
             "Compass",
@@ -10405,7 +10405,7 @@
             "Map Generator(Outdoors)"
         ],
         {
-            "title_aux": "Hanzo Studio_BattlemapGrid"
+            "title_aux": "HanzoStudio_BattlemapGrid"
         }
     ],
     "https://github.com/fofr/Hanzo Studio-HyperSDXL1StepUnetScheduler": [
@@ -10480,7 +10480,7 @@
             "title_aux": "RF Nodes"
         }
     ],
-    "https://github.com/frankchieng/Hanzo Studio_Aniportrait": [
+    "https://github.com/frankchieng/HanzoStudio_Aniportrait": [
         [
             "AniPortrait_Audio2Video",
             "AniPortrait_Audio_Path",
@@ -10490,27 +10490,27 @@
             "AniPortrait_Video_Gen_Pose"
         ],
         {
-            "title_aux": "Hanzo Studio_Aniportrait"
+            "title_aux": "HanzoStudio_Aniportrait"
         }
     ],
-    "https://github.com/frankchieng/Hanzo Studio_MagicClothing": [
+    "https://github.com/frankchieng/HanzoStudio_MagicClothing": [
         [
             "MagicClothing_Animatediff",
             "MagicClothing_Generate",
             "MagicClothing_Inpainting"
         ],
         {
-            "title_aux": "Hanzo Studio_MagicClothing"
+            "title_aux": "HanzoStudio_MagicClothing"
         }
     ],
-    "https://github.com/frankchieng/Hanzo Studio_llm_easyanimiate": [
+    "https://github.com/frankchieng/HanzoStudio_llm_easyanimiate": [
         [],
         {
             "nodename_pattern": "^FrankChiengEasyAnimate",
-            "title_aux": "Hanzo Studio_llm_easyanimiate"
+            "title_aux": "HanzoStudio_llm_easyanimiate"
         }
     ],
-    "https://github.com/fsdymy1024/Hanzo Studio_fsdymy": [
+    "https://github.com/fsdymy1024/HanzoStudio_fsdymy": [
         [
             "IPAdapterLayerWeight",
             "Preview Image Without Metadata",
@@ -10521,25 +10521,25 @@
             "ZhiPuAiNode"
         ],
         {
-            "title_aux": "Hanzo Studio_fsdymy"
+            "title_aux": "HanzoStudio_fsdymy"
         }
     ],
-    "https://github.com/fssorc/Hanzo Studio_FaceShaper": [
+    "https://github.com/fssorc/HanzoStudio_FaceShaper": [
         [
             "FaceShaper",
             "FaceShaperModels"
         ],
         {
-            "title_aux": "Hanzo Studio_FaceShaper"
+            "title_aux": "HanzoStudio_FaceShaper"
         }
     ],
-    "https://github.com/gemell1/Hanzo Studio_GMIC": [
+    "https://github.com/gemell1/HanzoStudio_GMIC": [
         [
             "GmicCliWrapper",
             "GmicQtWrapper"
         ],
         {
-            "title_aux": "Hanzo Studio_GMIC"
+            "title_aux": "HanzoStudio_GMIC"
         }
     ],
     "https://github.com/get-salt-AI/SaltAI": [
@@ -10714,20 +10714,20 @@
             "title_aux": "foxpack"
         }
     ],
-    "https://github.com/githubYiheng/Hanzo Studio_Change_IMAGE_BOREDER": [
+    "https://github.com/githubYiheng/HanzoStudio_Change_IMAGE_BOREDER": [
         [
             "ChangeImageBorder"
         ],
         {
-            "title_aux": "Hanzo Studio_Change_IMAGE_BOREDER"
+            "title_aux": "HanzoStudio_Change_IMAGE_BOREDER"
         }
     ],
-    "https://github.com/githubYiheng/Hanzo Studio_GetFileNameFromURL": [
+    "https://github.com/githubYiheng/HanzoStudio_GetFileNameFromURL": [
         [
             "GetFileNameFromURL"
         ],
         {
-            "title_aux": "Hanzo Studio_GetFileNameFromURL"
+            "title_aux": "HanzoStudio_GetFileNameFromURL"
         }
     ],
     "https://github.com/githubYiheng/hanzo_studio_kmeans_filter": [
@@ -10810,7 +10810,7 @@
             "title_aux": "nsfwrecog-comfyui"
         }
     ],
-    "https://github.com/godspede/Hanzo Studio_Substring": [
+    "https://github.com/godspede/HanzoStudio_Substring": [
         [
             "SubstringTheory"
         ],
@@ -10842,7 +10842,7 @@
             "title_aux": "Hanzo Studio-Texture-Simple"
         }
     ],
-    "https://github.com/gokayfem/Hanzo Studio_VLM_nodes": [
+    "https://github.com/gokayfem/HanzoStudio_VLM_nodes": [
         [
             "AudioLDM2Node",
             "ChatMusician",
@@ -10878,7 +10878,7 @@
             "title_aux": "VLM_nodes"
         }
     ],
-    "https://github.com/gonzalu/Hanzo Studio_YFG_Comical": [
+    "https://github.com/gonzalu/HanzoStudio_YFG_Comical": [
         [
             "Image10Switcher_node",
             "Image15Switcher_node",
@@ -11058,7 +11058,7 @@
             "title_aux": "Hanzo Studio-HH-Image-Selector"
         }
     ],
-    "https://github.com/hay86/Hanzo Studio_AceNodes": [
+    "https://github.com/hay86/HanzoStudio_AceNodes": [
         [
             "ACE_AnyInputSwitchBool",
             "ACE_AnyInputToAny",
@@ -11094,7 +11094,7 @@
             "title_aux": "Hanzo Studio AceNodes"
         }
     ],
-    "https://github.com/hay86/Hanzo Studio_DDColor": [
+    "https://github.com/hay86/HanzoStudio_DDColor": [
         [
             "D_DDColor"
         ],
@@ -11102,7 +11102,7 @@
             "title_aux": "Hanzo Studio DDColor"
         }
     ],
-    "https://github.com/hay86/Hanzo Studio_Dreamtalk": [
+    "https://github.com/hay86/HanzoStudio_Dreamtalk": [
         [
             "D_DreamTalk"
         ],
@@ -11110,7 +11110,7 @@
             "title_aux": "Hanzo Studio Dreamtalk"
         }
     ],
-    "https://github.com/hay86/Hanzo Studio_Hallo": [
+    "https://github.com/hay86/HanzoStudio_Hallo": [
         [
             "D_HalloNode"
         ],
@@ -11118,7 +11118,7 @@
             "title_aux": "Hanzo Studio Hallo"
         }
     ],
-    "https://github.com/hay86/Hanzo Studio_MiniCPM-V": [
+    "https://github.com/hay86/HanzoStudio_MiniCPM-V": [
         [
             "D_MiniCPM_VQA"
         ],
@@ -11126,7 +11126,7 @@
             "title_aux": "Hanzo Studio MiniCPM-V"
         }
     ],
-    "https://github.com/hay86/Hanzo Studio_OpenVoice": [
+    "https://github.com/hay86/HanzoStudio_OpenVoice": [
         [
             "D_OpenVoice_STS",
             "D_OpenVoice_TTS",
@@ -11311,7 +11311,7 @@
             "title_aux": "Comfyui HiFORCE Plugin"
         }
     ],
-    "https://github.com/hinablue/Hanzo Studio_3dPoseEditor": [
+    "https://github.com/hinablue/HanzoStudio_3dPoseEditor": [
         [
             "Hina.PoseEditor3D"
         ],
@@ -11340,7 +11340,7 @@
             "title_aux": "comfyui's gaffer(Hanzo Studio native implementation of IC-Light. )"
         }
     ],
-    "https://github.com/huagetai/Hanzo Studio_LightGradient": [
+    "https://github.com/huagetai/HanzoStudio_LightGradient": [
         [
             "ImageGradient",
             "MaskGradient"
@@ -11382,15 +11382,15 @@
             "title_aux": "Hanzo Studio-openpose-editor"
         }
     ],
-    "https://github.com/huchenlei/Hanzo Studio_DanTagGen": [
+    "https://github.com/huchenlei/HanzoStudio_DanTagGen": [
         [
             "PromptDanTagGen"
         ],
         {
-            "title_aux": "Hanzo Studio_DanTagGen"
+            "title_aux": "HanzoStudio_DanTagGen"
         }
     ],
-    "https://github.com/huchenlei/Hanzo Studio_densediffusion": [
+    "https://github.com/huchenlei/HanzoStudio_densediffusion": [
         [
             "DenseDiffusionAddCondNode",
             "DenseDiffusionApplyNode"
@@ -11399,7 +11399,7 @@
             "title_aux": "Hanzo Studio DenseDiffusion"
         }
     ],
-    "https://github.com/huchenlei/Hanzo Studio_omost": [
+    "https://github.com/huchenlei/HanzoStudio_omost": [
         [
             "OmostDenseDiffusionLayoutNode",
             "OmostGreedyBagsTextEmbeddingNode",
@@ -11412,7 +11412,7 @@
             "OmostRenderCanvasConditioningNode"
         ],
         {
-            "title_aux": "Hanzo Studio_omost"
+            "title_aux": "HanzoStudio_omost"
         }
     ],
     "https://github.com/hughescr/Hanzo Studio-OpenPose-Keypoint-Extractor": [
@@ -11423,15 +11423,15 @@
             "title_aux": "OpenPose Keypoint Extractor"
         }
     ],
-    "https://github.com/hustille/Hanzo Studio_Fooocus_KSampler": [
+    "https://github.com/hustille/HanzoStudio_Fooocus_KSampler": [
         [
             "KSampler With Refiner (Fooocus)"
         ],
         {
-            "title_aux": "Hanzo Studio_Fooocus_KSampler"
+            "title_aux": "HanzoStudio_Fooocus_KSampler"
         }
     ],
-    "https://github.com/hustille/Hanzo Studio_hus_utils": [
+    "https://github.com/hustille/HanzoStudio_hus_utils": [
         [
             "3way Prompt Styler",
             "Batch State",
@@ -11482,7 +11482,7 @@
             "title_aux": "hanzo-studio-undistort"
         }
     ],
-    "https://github.com/icesun963/Hanzo Studio_HFDownLoad": [
+    "https://github.com/icesun963/HanzoStudio_HFDownLoad": [
         [
             "Apply EasyOCR V2",
             "HFDownLoad_Tool",
@@ -11515,7 +11515,7 @@
             "title_aux": "Hanzo Studio-Lora-Auto-Trigger-Words"
         }
     ],
-    "https://github.com/iemesowum/Hanzo Studio_IsaacNodes": [
+    "https://github.com/iemesowum/HanzoStudio_IsaacNodes": [
         [
             "I_AmplitudeToWeights",
             "I_BinaryAmplitudeGate",
@@ -11578,7 +11578,7 @@
             "title_aux": "hanzo_studio_extra_api"
         }
     ],
-    "https://github.com/iwanders/Hanzo Studio_nodes": [
+    "https://github.com/iwanders/HanzoStudio_nodes": [
         [
             "IW_JsonPickItem",
             "IW_ModelHook",
@@ -11591,10 +11591,10 @@
             "IW_TokenizerVocab"
         ],
         {
-            "title_aux": "iwanders/Hanzo Studio_nodes"
+            "title_aux": "iwanders/HanzoStudio_nodes"
         }
     ],
-    "https://github.com/jags111/Hanzo Studio_Jags_Audiotools": [
+    "https://github.com/jags111/HanzoStudio_Jags_Audiotools": [
         [
             "BatchJoinAudio",
             "BatchToList",
@@ -11657,7 +11657,7 @@
             "title_aux": "Jags_Audiotools"
         }
     ],
-    "https://github.com/jags111/Hanzo Studio_Jags_VectorMagic": [
+    "https://github.com/jags111/HanzoStudio_Jags_VectorMagic": [
         [
             "CircularVAEDecode",
             "JagsCLIPSeg",
@@ -11895,12 +11895,12 @@
             "title_aux": "Hanzo Studio-JakeUpgrade"
         }
     ],
-    "https://github.com/jamal-alkharrat/Hanzo Studio_rotate_image": [
+    "https://github.com/jamal-alkharrat/HanzoStudio_rotate_image": [
         [
             "RotateImage"
         ],
         {
-            "title_aux": "Hanzo Studio_rotate_image"
+            "title_aux": "HanzoStudio_rotate_image"
         }
     ],
     "https://github.com/jamesWalker55/hanzo-studio-p2ldgan": [
@@ -12019,13 +12019,13 @@
             "title_aux": "Faceless Node for Hanzo Studio"
         }
     ],
-    "https://github.com/jesenzhang/Hanzo Studio_StreamDiffusion": [
+    "https://github.com/jesenzhang/HanzoStudio_StreamDiffusion": [
         [
             "StreamDiffusion_Loader",
             "StreamDiffusion_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_StreamDiffusion"
+            "title_aux": "HanzoStudio_StreamDiffusion"
         }
     ],
     "https://github.com/jiaxiangc/Hanzo Studio-ResAdapter": [
@@ -12293,7 +12293,7 @@
             "title_aux": "hanzo-studio-yanc"
         }
     ],
-    "https://github.com/kaanyalova/Hanzo Studio_ExtendedImageFormats": [
+    "https://github.com/kaanyalova/HanzoStudio_ExtendedImageFormats": [
         [
             "ExtendedSaveImage"
         ],
@@ -12345,7 +12345,7 @@
             "path_util_PathSplitext"
         ],
         {
-            "title_aux": "Hanzo Studio_demucus"
+            "title_aux": "HanzoStudio_demucus"
         }
     ],
     "https://github.com/kale4eat/Hanzo Studio-speech-dataset-toolkit": [
@@ -12446,7 +12446,7 @@
             "title_aux": "Hanzo Studio-text-file-util"
         }
     ],
-    "https://github.com/kappa54m/Hanzo Studio_Usability": [
+    "https://github.com/kappa54m/HanzoStudio_Usability": [
         [
             "KLoadImageByPath",
             "KLoadImageByPathAdvanced",
@@ -12926,24 +12926,24 @@
             "title_aux": "Hanzo Studio-segment-anything-2"
         }
     ],
-    "https://github.com/kinfolk0117/Hanzo Studio_GradientDeepShrink": [
+    "https://github.com/kinfolk0117/HanzoStudio_GradientDeepShrink": [
         [
             "GradientPatchModelAddDownscale",
             "GradientPatchModelAddDownscaleAdvanced"
         ],
         {
-            "title_aux": "Hanzo Studio_GradientDeepShrink"
+            "title_aux": "HanzoStudio_GradientDeepShrink"
         }
     ],
-    "https://github.com/kinfolk0117/Hanzo Studio_Pilgram": [
+    "https://github.com/kinfolk0117/HanzoStudio_Pilgram": [
         [
             "Pilgram"
         ],
         {
-            "title_aux": "Hanzo Studio_Pilgram"
+            "title_aux": "HanzoStudio_Pilgram"
         }
     ],
-    "https://github.com/kinfolk0117/Hanzo Studio_SimpleTiles": [
+    "https://github.com/kinfolk0117/HanzoStudio_SimpleTiles": [
         [
             "DynamicTileMerge",
             "DynamicTileSplit",
@@ -12993,7 +12993,7 @@
             "title_aux": "ControlNet-LLLite-Hanzo Studio"
         }
     ],
-    "https://github.com/komojini/Hanzo Studio_SDXL_DreamBooth_LoRA_CustomNodes": [
+    "https://github.com/komojini/HanzoStudio_SDXL_DreamBooth_LoRA_CustomNodes": [
         [
             "S3 Bucket LoRA",
             "S3Bucket_Load_LoRA",
@@ -13001,7 +13001,7 @@
             "XLDB_LoRA"
         ],
         {
-            "title_aux": "Hanzo Studio_SDXL_DreamBooth_LoRA_CustomNodes"
+            "title_aux": "HanzoStudio_SDXL_DreamBooth_LoRA_CustomNodes"
         }
     ],
     "https://github.com/komojini/komojini-hanzo-studio-nodes": [
@@ -13032,7 +13032,7 @@
             "title_aux": "komojini-hanzo-studio-nodes"
         }
     ],
-    "https://github.com/kunieone/Hanzo Studio_alkaid": [
+    "https://github.com/kunieone/HanzoStudio_alkaid": [
         [
             "A_EmptyLatentImageLongside",
             "A_Face3DSwapper",
@@ -13051,7 +13051,7 @@
             "KSamplerHires"
         ],
         {
-            "title_aux": "Hanzo Studio_alkaid"
+            "title_aux": "HanzoStudio_alkaid"
         }
     ],
     "https://github.com/kwaroran/abg-comfyui": [
@@ -13158,7 +13158,7 @@
             "title_aux": "LNL Frame Selector"
         }
     ],
-    "https://github.com/leeguandong/Hanzo Studio_InternVL2": [
+    "https://github.com/leeguandong/HanzoStudio_InternVL2": [
         [
             "DynamicPreprocess",
             "InternVLHFInference",
@@ -13166,26 +13166,26 @@
             "InternVLModelLoader"
         ],
         {
-            "title_aux": "Hanzo Studio_InternVL2"
+            "title_aux": "HanzoStudio_InternVL2"
         }
     ],
-    "https://github.com/leeguandong/Hanzo Studio_LLaSM": [
+    "https://github.com/leeguandong/HanzoStudio_LLaSM": [
         [
             "LLaSM2Interface",
             "LLaSM2ModelLoader",
             "LLaSMLoadAudio"
         ],
         {
-            "title_aux": "Hanzo Studio_LLaSM"
+            "title_aux": "HanzoStudio_LLaSM"
         }
     ],
-    "https://github.com/leeguandong/Hanzo Studio_M3Net": [
+    "https://github.com/leeguandong/HanzoStudio_M3Net": [
         [
             "M3Net_Interface",
             "M3Net_ModelLoader"
         ],
         {
-            "title_aux": "Hanzo Studio_M3Net"
+            "title_aux": "HanzoStudio_M3Net"
         }
     ],
     "https://github.com/leestuartx/Hanzo Studio-GG": [
@@ -13993,12 +13993,12 @@
             "title_aux": "hanzo-studio-previewlatent"
         }
     ],
-    "https://github.com/massao000/Hanzo Studio_aspect_ratios": [
+    "https://github.com/massao000/HanzoStudio_aspect_ratios": [
         [
             "Aspect Ratios Node"
         ],
         {
-            "title_aux": "Hanzo Studio_aspect_ratios"
+            "title_aux": "HanzoStudio_aspect_ratios"
         }
     ],
     "https://github.com/matan1905/Hanzo Studio-Serving-Toolkit": [
@@ -14277,7 +14277,7 @@
             "title_aux": "Hanzo Studio-Miaoshouai-Tagger"
         }
     ],
-    "https://github.com/mihaiiancu/Hanzo Studio_Inpaint": [
+    "https://github.com/mihaiiancu/HanzoStudio_Inpaint": [
         [
             "InpaintMediapipe"
         ],
@@ -14309,7 +14309,7 @@
             "title_aux": "Hanzo Studio - Mask Bounding Box"
         }
     ],
-    "https://github.com/mirabarukaso/Hanzo Studio_Mira": [
+    "https://github.com/mirabarukaso/HanzoStudio_Mira": [
         [
             "BooleanListInterpreter1",
             "BooleanListInterpreter4",
@@ -14369,7 +14369,7 @@
             "TwoFloats"
         ],
         {
-            "title_aux": "Hanzo Studio_Mira"
+            "title_aux": "HanzoStudio_Mira"
         }
     ],
     "https://github.com/misterjoessef/MLTask_Hanzo Studio": [
@@ -14400,7 +14400,7 @@
             "title_aux": "Preset Dimensions"
         }
     ],
-    "https://github.com/moyi7712/Hanzo Studio_Seamless_Patten": [
+    "https://github.com/moyi7712/HanzoStudio_Seamless_Patten": [
         [
             "SeamlessApply",
             "SeamlessKSampler",
@@ -14408,7 +14408,7 @@
             "SeamlessVae"
         ],
         {
-            "title_aux": "Hanzo Studio_Seamless_Patten"
+            "title_aux": "HanzoStudio_Seamless_Patten"
         }
     ],
     "https://github.com/mpiquero7164/Hanzo Studio-SaveImgPrompt": [
@@ -14440,16 +14440,16 @@
             "title_aux": "PoseKeypoint Mask"
         }
     ],
-    "https://github.com/my-opencode/Hanzo Studio_IndustrialMagick": [
+    "https://github.com/my-opencode/HanzoStudio_IndustrialMagick": [
         [
             "IndustrialMagick",
             "IndustrialMagickImageIngest"
         ],
         {
-            "title_aux": "Hanzo Studio_IndustrialMagick"
+            "title_aux": "HanzoStudio_IndustrialMagick"
         }
     ],
-    "https://github.com/my-opencode/Hanzo Studio_KSamplerTimer": [
+    "https://github.com/my-opencode/HanzoStudio_KSamplerTimer": [
         [
             "KSamplerTimer"
         ],
@@ -14458,15 +14458,15 @@
             "description": "This extension provides a wrapper of the native KSampler which outputs generation time.",
             "nickname": "\u23f1",
             "title": "KSampler (timer)",
-            "title_aux": "Hanzo Studio_KSamplerTimer"
+            "title_aux": "HanzoStudio_KSamplerTimer"
         }
     ],
-    "https://github.com/nagolinc/Hanzo Studio_FastVAEDecorder_SDXL": [
+    "https://github.com/nagolinc/HanzoStudio_FastVAEDecorder_SDXL": [
         [
             "FastLatentToImage"
         ],
         {
-            "title_aux": "Hanzo Studio_FastVAEDecorder_SDXL"
+            "title_aux": "HanzoStudio_FastVAEDecorder_SDXL"
         }
     ],
     "https://github.com/nagolinc/hanzo_studio_openai_node": [
@@ -14566,12 +14566,12 @@
             "title_aux": "ImgProcessing_Hanzo Studio"
         }
     ],
-    "https://github.com/nirex0/Hanzo Studio_pytorch_openpose": [
+    "https://github.com/nirex0/HanzoStudio_pytorch_openpose": [
         [
             "pytorch_openpose"
         ],
         {
-            "title_aux": "Hanzo Studio_pytorch_openpose"
+            "title_aux": "HanzoStudio_pytorch_openpose"
         }
     ],
     "https://github.com/nkchocoai/Hanzo Studio-Dart": [
@@ -14685,7 +14685,7 @@
             "title_aux": "Hanzo Studio InstantID Faceswapper"
         }
     ],
-    "https://github.com/noxinias/Hanzo Studio_NoxinNodes": [
+    "https://github.com/noxinias/HanzoStudio_NoxinNodes": [
         [
             "NoxinChime",
             "NoxinPromptLoad",
@@ -14695,7 +14695,7 @@
             "NoxinSplitPrompt"
         ],
         {
-            "title_aux": "Hanzo Studio_NoxinNodes"
+            "title_aux": "HanzoStudio_NoxinNodes"
         }
     ],
     "https://github.com/ntc-ai/Hanzo Studio-DARE-LoRA-Merge": [
@@ -14832,7 +14832,7 @@
             "title_aux": "Quality of life Suit:V2"
         }
     ],
-    "https://github.com/opvelll/Hanzo Studio_TextListProduct": [
+    "https://github.com/opvelll/HanzoStudio_TextListProduct": [
         [
             "ProductedString",
             "TextListProduct",
@@ -14852,7 +14852,7 @@
             "PromptQuillSailConditioning"
         ],
         {
-            "title_aux": "Hanzo Studio_Prompt-Quill"
+            "title_aux": "HanzoStudio_Prompt-Quill"
         }
     ],
     "https://github.com/ostris/ostris_nodes_comfyui": [
@@ -14887,7 +14887,7 @@
             "title_aux": "Hanzo Studio-TrollSuite"
         }
     ],
-    "https://github.com/oztrkoguz/Hanzo Studio_StoryCreator": [
+    "https://github.com/oztrkoguz/HanzoStudio_StoryCreator": [
         [
             "Kosmos2SamplerSimple2",
             "KosmosLoader2",
@@ -15025,7 +15025,7 @@
             "title_aux": "comfy_PoP"
         }
     ],
-    "https://github.com/pikenrover/Hanzo Studio_PRNodes": [
+    "https://github.com/pikenrover/HanzoStudio_PRNodes": [
         [
             "CheckpointLoaderSimpleExtended",
             "EmptyLatentImageScaleBy",
@@ -15037,7 +15037,7 @@
             "Save Image w/Metadata"
         ],
         {
-            "title_aux": "Hanzo Studio_PRNodes"
+            "title_aux": "HanzoStudio_PRNodes"
         }
     ],
     "https://github.com/pkpkTech/Hanzo Studio-SaveAVIF": [
@@ -15200,7 +15200,7 @@
             "title_aux": "queuetools"
         }
     ],
-    "https://github.com/ramyma/A8R8_Hanzo Studio_nodes": [
+    "https://github.com/ramyma/A8R8_HanzoStudio_nodes": [
         [
             "AttentionCouple",
             "AttentionCoupleRegion",
@@ -15547,15 +15547,15 @@
             "title_aux": "SRL's nodes"
         }
     ],
-    "https://github.com/seghier/Hanzo Studio_LibreTranslate/raw/main/translate_node.py": [
+    "https://github.com/seghier/HanzoStudio_LibreTranslate/raw/main/translate_node.py": [
         [
             "LibreTranslate"
         ],
         {
-            "title_aux": "Hanzo Studio_LibreTranslate"
+            "title_aux": "HanzoStudio_LibreTranslate"
         }
     ],
-    "https://github.com/sergekatzmann/Hanzo Studio_Nimbus-Pack": [
+    "https://github.com/sergekatzmann/HanzoStudio_Nimbus-Pack": [
         [
             "AdjustAndRoundDimensions",
             "AspectRatioMobileDevices",
@@ -15564,7 +15564,7 @@
             "PopularScreenResolutions"
         ],
         {
-            "title_aux": "Hanzo Studio_Nimbus-Pack"
+            "title_aux": "HanzoStudio_Nimbus-Pack"
         }
     ],
     "https://github.com/shadowcz007/hanzo-studio-Image-reward": [
@@ -15703,7 +15703,7 @@
             "title_aux": "hanzo-studio-ultralytics-yolo"
         }
     ],
-    "https://github.com/shi3z/Hanzo Studio_Memeplex_DALLE": [
+    "https://github.com/shi3z/HanzoStudio_Memeplex_DALLE": [
         [
             "DallERender",
             "GPT",
@@ -15713,7 +15713,7 @@
             "TextSend"
         ],
         {
-            "title_aux": "Hanzo Studio_Memeplex_DALLE"
+            "title_aux": "HanzoStudio_Memeplex_DALLE"
         }
     ],
     "https://github.com/shiimizu/Hanzo Studio-PhotoMaker-Plus": [
@@ -15747,7 +15747,7 @@
             "title_aux": "Semantic-aware Guidance (S-CFG)"
         }
     ],
-    "https://github.com/shiimizu/Hanzo Studio_smZNodes": [
+    "https://github.com/shiimizu/HanzoStudio_smZNodes": [
         [
             "smZ CLIPTextEncode",
             "smZ Settings"
@@ -15796,7 +15796,7 @@
             "title_aux": "PlusMinusTextClip - Single node for Positive and Negative Prompts"
         }
     ],
-    "https://github.com/shockz0rz/Hanzo Studio_InterpolateEverything": [
+    "https://github.com/shockz0rz/HanzoStudio_InterpolateEverything": [
         [
             "OpenposePreprocessorInterpolate"
         ],
@@ -15987,16 +15987,16 @@
             "title_aux": "Hanzo Studio-Flux-Replicate-API"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_AnyDoor": [
+    "https://github.com/smthemex/HanzoStudio_AnyDoor": [
         [
             "AnyDoor_LoadModel",
             "AnyDoor_img2img"
         ],
         {
-            "title_aux": "Hanzo Studio_AnyDoor"
+            "title_aux": "HanzoStudio_AnyDoor"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_ChatGLM_API": [
+    "https://github.com/smthemex/HanzoStudio_ChatGLM_API": [
         [
             "Glm_4_9b_Chat",
             "Glm_4v_9b",
@@ -16006,74 +16006,74 @@
             "ZhipuaiApi_img"
         ],
         {
-            "title_aux": "Hanzo Studio_ChatGLM_API"
+            "title_aux": "HanzoStudio_ChatGLM_API"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_CustomNet": [
+    "https://github.com/smthemex/HanzoStudio_CustomNet": [
         [
             "CustomNet_LoadModel",
             "CustomNet_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_CustomNet"
+            "title_aux": "HanzoStudio_CustomNet"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_Diffree": [
+    "https://github.com/smthemex/HanzoStudio_Diffree": [
         [
             "Diffree_Model_Loader",
             "Diffree_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_Diffree"
+            "title_aux": "HanzoStudio_Diffree"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_EchoMimic": [
+    "https://github.com/smthemex/HanzoStudio_EchoMimic": [
         [
             "Echo_LoadModel",
             "Echo_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_EchoMimic"
+            "title_aux": "HanzoStudio_EchoMimic"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_FoleyCrafter": [
+    "https://github.com/smthemex/HanzoStudio_FoleyCrafter": [
         [
             "FoleyCrafter_LoadModel",
             "FoleyCrafter_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_FoleyCrafter"
+            "title_aux": "HanzoStudio_FoleyCrafter"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_FollowYourEmoji": [
+    "https://github.com/smthemex/HanzoStudio_FollowYourEmoji": [
         [
             "Emoji_Make_Temple",
             "FollowYouEmoji_LoadModel",
             "FollowYouEmoji_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_FollowYourEmoji"
+            "title_aux": "HanzoStudio_FollowYourEmoji"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_HiDiffusion_Pro": [
+    "https://github.com/smthemex/HanzoStudio_HiDiffusion_Pro": [
         [
             "HI_Diffusers_Model_Loader",
             "Hi_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_HiDiffusion_Pro"
+            "title_aux": "HanzoStudio_HiDiffusion_Pro"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_ID_Animator": [
+    "https://github.com/smthemex/HanzoStudio_ID_Animator": [
         [
             "ID_Animator",
             "ID_Repo_Choice"
         ],
         {
-            "title_aux": "Hanzo Studio_ID_Animator"
+            "title_aux": "HanzoStudio_ID_Animator"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_Llama3_8B": [
+    "https://github.com/smthemex/HanzoStudio_Llama3_8B": [
         [
             "ChatQA_1p5_8b",
             "Local_Or_Repo_Choice",
@@ -16081,46 +16081,46 @@
             "MiniCPM_Llama3_V25"
         ],
         {
-            "title_aux": "Hanzo Studio_Llama3_8B"
+            "title_aux": "HanzoStudio_Llama3_8B"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_MS_Diffusion": [
+    "https://github.com/smthemex/HanzoStudio_MS_Diffusion": [
         [
             "MS_Object_img_Batch",
             "MSdiffusion_Model_Loader",
             "MSdiffusion_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_MS_Diffusion"
+            "title_aux": "HanzoStudio_MS_Diffusion"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_ParlerTTS": [
+    "https://github.com/smthemex/HanzoStudio_ParlerTTS": [
         [
             "ParlerTTS_LoadModel",
             "ParlerTTS_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_ParlerTTS"
+            "title_aux": "HanzoStudio_ParlerTTS"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_Pic2Story": [
+    "https://github.com/smthemex/HanzoStudio_Pic2Story": [
         [
             "Pic2Story_Loader",
             "Pic2Story_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_Pic2Story"
+            "title_aux": "HanzoStudio_Pic2Story"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_Pipeline_Tool": [
+    "https://github.com/smthemex/HanzoStudio_Pipeline_Tool": [
         [
             "Pipeline_Tool"
         ],
         {
-            "title_aux": "Hanzo Studio_Pipeline_Tool"
+            "title_aux": "HanzoStudio_Pipeline_Tool"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_Pops": [
+    "https://github.com/smthemex/HanzoStudio_Pops": [
         [
             "Imgae_To_Path",
             "Pops_Prior_Embedding",
@@ -16128,29 +16128,29 @@
             "Pops_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_Pops"
+            "title_aux": "HanzoStudio_Pops"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_StableAudio_Open": [
+    "https://github.com/smthemex/HanzoStudio_StableAudio_Open": [
         [
             "StableAudio_ModelLoader",
             "StableAudio_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_StableAudio_Open"
+            "title_aux": "HanzoStudio_StableAudio_Open"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_Stable_Makeup": [
+    "https://github.com/smthemex/HanzoStudio_Stable_Makeup": [
         [
             "StableMakeup_LoadModel",
             "StableMakeup_Sampler"
         ],
         {
             "author": "Sajjad Ayobbi",
-            "title_aux": "Hanzo Studio_Stable_Makeup"
+            "title_aux": "HanzoStudio_Stable_Makeup"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_StoryDiffusion": [
+    "https://github.com/smthemex/HanzoStudio_StoryDiffusion": [
         [
             "Comic_Type",
             "FLUX_Dev_Model_Loader",
@@ -16159,17 +16159,17 @@
             "Storydiffusion_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_StoryDiffusion"
+            "title_aux": "HanzoStudio_StoryDiffusion"
         }
     ],
-    "https://github.com/smthemex/Hanzo Studio_Streamv2v_Plus": [
+    "https://github.com/smthemex/HanzoStudio_Streamv2v_Plus": [
         [
             "Stream_Lora_Loader",
             "Stream_Model_Loader",
             "Stream_Sampler"
         ],
         {
-            "title_aux": "Hanzo Studio_Streamv2v_Plus"
+            "title_aux": "HanzoStudio_Streamv2v_Plus"
         }
     ],
     "https://github.com/sn0w12/Hanzo Studio-Sn0w-Scripts": [
@@ -16357,7 +16357,7 @@
             "title_aux": "Latent Mirror node for Hanzo Studio"
         }
     ],
-    "https://github.com/ssitu/Hanzo Studio_UltimateSDUpscale": [
+    "https://github.com/ssitu/HanzoStudio_UltimateSDUpscale": [
         [
             "UltimateSDUpscale",
             "UltimateSDUpscaleCustomSample",
@@ -16367,7 +16367,7 @@
             "title_aux": "UltimateSDUpscale"
         }
     ],
-    "https://github.com/ssitu/Hanzo Studio_fabric": [
+    "https://github.com/ssitu/HanzoStudio_fabric": [
         [
             "FABRICPatchModel",
             "FABRICPatchModelAdv",
@@ -16379,7 +16379,7 @@
             "title_aux": "Hanzo Studio fabric"
         }
     ],
-    "https://github.com/ssitu/Hanzo Studio_restart_sampling": [
+    "https://github.com/ssitu/HanzoStudio_restart_sampling": [
         [
             "KRestartSampler",
             "KRestartSamplerAdv",
@@ -16392,7 +16392,7 @@
             "title_aux": "Restart Sampling"
         }
     ],
-    "https://github.com/ssitu/Hanzo Studio_roop": [
+    "https://github.com/ssitu/HanzoStudio_roop": [
         [
             "RoopImproved",
             "roop"
@@ -16437,7 +16437,7 @@
             "title_aux": "segment anything"
         }
     ],
-    "https://github.com/strimmlarn/Hanzo Studio_Strimmlarns_aesthetic_score": [
+    "https://github.com/strimmlarn/HanzoStudio_Strimmlarns_aesthetic_score": [
         [
             "AesthetlcScoreSorter",
             "CalculateAestheticScore",
@@ -16445,7 +16445,7 @@
             "ScoreToNumber"
         ],
         {
-            "title_aux": "Hanzo Studio_Strimmlarns_aesthetic_score"
+            "title_aux": "HanzoStudio_Strimmlarns_aesthetic_score"
         }
     ],
     "https://github.com/styler00dollar/Hanzo Studio-deepcache": [
@@ -16493,7 +16493,7 @@
             "title_aux": "hanzo_studio_lumaAPI"
         }
     ],
-    "https://github.com/syaofox/Hanzo Studio_FoxTools": [
+    "https://github.com/syaofox/HanzoStudio_FoxTools": [
         [
             "FoxBatchImageFromList",
             "FoxColorMatch",
@@ -16532,7 +16532,7 @@
             "FoxcleanGPUUsed"
         ],
         {
-            "title_aux": "Hanzo Studio_FoxTools"
+            "title_aux": "HanzoStudio_FoxTools"
         }
     ],
     "https://github.com/syllebra/bilbox-comfyui": [
@@ -16787,7 +16787,7 @@
             "title_aux": "TTools for Hanzo Studio"
         }
     ],
-    "https://github.com/toyxyz/Hanzo Studio_toyxyz_test_nodes": [
+    "https://github.com/toyxyz/HanzoStudio_toyxyz_test_nodes": [
         [
             "CaptureWebcam",
             "Direct Screen Capture",
@@ -16797,7 +16797,7 @@
             "SaveImagetoPath"
         ],
         {
-            "title_aux": "Hanzo Studio_toyxyz_test_nodes"
+            "title_aux": "HanzoStudio_toyxyz_test_nodes"
         }
     ],
     "https://github.com/traugdor/Hanzo Studio-quadMoons-nodes": [
@@ -16828,7 +16828,7 @@
             "title_aux": "quadmoon's Hanzo Studio nodes"
         }
     ],
-    "https://github.com/tritant/Hanzo Studio_CreaPrompt": [
+    "https://github.com/tritant/HanzoStudio_CreaPrompt": [
         [
             "CreaPrompt",
             "CreaPrompt List",
@@ -17060,12 +17060,12 @@
             "title_aux": "Simple Wildcard"
         }
     ],
-    "https://github.com/var1ableX/Hanzo Studio_Accessories": [
+    "https://github.com/var1ableX/HanzoStudio_Accessories": [
         [
             "GetMaskDimensions"
         ],
         {
-            "title_aux": "Hanzo Studio_Accessories"
+            "title_aux": "HanzoStudio_Accessories"
         }
     ],
     "https://github.com/vault-developer/hanzo-studio-image-blender": [
@@ -17248,7 +17248,7 @@
             "title_aux": "wlsh_nodes"
         }
     ],
-    "https://github.com/web3nomad/Hanzo Studio_Invisible_Watermark": [
+    "https://github.com/web3nomad/HanzoStudio_Invisible_Watermark": [
         [
             "InvisibleWatermarkEncode"
         ],
@@ -17457,12 +17457,12 @@
             "title_aux": "hd-nodes-comfyui"
         }
     ],
-    "https://github.com/xliry/Hanzo Studio_SendDiscord": [
+    "https://github.com/xliry/HanzoStudio_SendDiscord": [
         [
             "SendDiscord"
         ],
         {
-            "title_aux": "Hanzo Studio_SendDiscord"
+            "title_aux": "HanzoStudio_SendDiscord"
         }
     ],
     "https://github.com/xuhongming251/Hanzo Studio-GPEN": [
@@ -17485,7 +17485,7 @@
             "title_aux": "Hanzo Studio-MuseTalkUtils"
         }
     ],
-    "https://github.com/ycchanau/Hanzo Studio_Preview_Magnifier": [
+    "https://github.com/ycchanau/HanzoStudio_Preview_Magnifier": [
         [
             "YC.ImageComparerMagnifier",
             "YC.PreviewImageMagnifier",
@@ -17504,7 +17504,7 @@
             "title_aux": "hanzo_studio_auto_danbooru"
         }
     ],
-    "https://github.com/yiwangsimple/Hanzo Studio_GroqChat": [
+    "https://github.com/yiwangsimple/HanzoStudio_GroqChat": [
         [
             "DeepSeekChatNode",
             "DeepSeekTranslator",
@@ -17847,7 +17847,7 @@
             "title_aux": "Hanzo Studio YoloNasPose Tensorrt"
         }
     ],
-    "https://github.com/za-wa-n-go/Hanzo Studio_Zwng_Nodes": [
+    "https://github.com/za-wa-n-go/HanzoStudio_Zwng_Nodes": [
         [
             "ZwngLoadImagePathOrURL",
             "ZwngPreviewImageAndMask",
@@ -17855,7 +17855,7 @@
             "ZwngSimplePhotoshopConnector"
         ],
         {
-            "title_aux": "Hanzo Studio_Zwng_Nodes"
+            "title_aux": "HanzoStudio_Zwng_Nodes"
         }
     ],
     "https://github.com/zcfrank1st/Comfyui-Toolbox": [
@@ -17904,7 +17904,7 @@
             "title_aux": "Hanzo Studio-Fast-Style-Transfer"
         }
     ],
-    "https://github.com/zfkun/Hanzo Studio_zfkun": [
+    "https://github.com/zfkun/HanzoStudio_zfkun": [
         [
             "ZFLoadImagePath",
             "ZFPreviewText",
@@ -17913,7 +17913,7 @@
             "ZFTextTranslation"
         ],
         {
-            "title_aux": "Hanzo Studio_zfkun"
+            "title_aux": "HanzoStudio_zfkun"
         }
     ],
     "https://github.com/zhangp365/Hanzo Studio-utils-nodes": [
@@ -17986,17 +17986,17 @@
             "title_aux": "EasyCaptureNode for Hanzo Studio"
         }
     ],
-    "https://github.com/zhulu111/Hanzo Studio_Bxb": [
+    "https://github.com/zhulu111/HanzoStudio_Bxb": [
         [
             "sdBxb",
             "sdBxb_saveImage",
             "sdBxb_textInput"
         ],
         {
-            "title_aux": "Hanzo Studio_Bxb"
+            "title_aux": "HanzoStudio_Bxb"
         }
     ],
-    "https://github.com/zohac/Hanzo Studio_ZC_DrawShape": [
+    "https://github.com/zohac/HanzoStudio_ZC_DrawShape": [
         [
             "ZcDrawShape"
         ],
@@ -18005,7 +18005,7 @@
             "description": "nodes for artists, designers and animators.",
             "nickname": "Zc DrawShape",
             "title": "Zc DrawShape",
-            "title_aux": "Hanzo Studio_ZC_DrawShape"
+            "title_aux": "HanzoStudio_ZC_DrawShape"
         }
     ],
     "https://github.com/zombieyang/sd-ppp": [
