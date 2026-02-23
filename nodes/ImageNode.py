@@ -3293,7 +3293,7 @@ class ImageListToBatch_:
         return (out,)
 
 
-# https://github.com/gokayfem/Hanzo Studio-Depth-Visualization?tab=readme-ov-file
+# https://github.com/gokayfem/HanzoStudio-Depth-Visualization?tab=readme-ov-file
 class DepthViewer_:
     @classmethod
     def INPUT_TYPES(cls):

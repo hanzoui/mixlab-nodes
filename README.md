@@ -313,7 +313,7 @@ An improvement has been made to directly redirect to GitHub to search for missin
 manually install, simply clone the repo into the custom_nodes directory with this command:
 
 ```
-cd Hanzo Studio/custom_nodes
+cd HanzoStudio/custom_nodes
 
 git clone https://github.com/shadowcz007/hanzo-studio-mixlab-nodes.git
 
@@ -324,7 +324,7 @@ Install the requirements:
 run directly:
 
 ```
-cd Hanzo Studio/custom_nodes/hanzo-studio-mixlab-nodes
+cd HanzoStudio/custom_nodes/hanzo-studio-mixlab-nodes
 install.bat
 ```
 
