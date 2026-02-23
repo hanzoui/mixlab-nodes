@@ -3167,7 +3167,7 @@ class SaveImageToLocal:
     def save_images(self, images,file_path , prompt=None, extra_pnginfo=None):
         filename_prefix = os.path.basename(file_path)
         if file_path=='':
-            filename_prefix="ComfyUI"
+            filename_prefix="Hanzo Studio"
         
         filename_prefix, _ = os.path.splitext(filename_prefix)
 
@@ -3293,7 +3293,7 @@ class ImageListToBatch_:
         return (out,)
 
 
-# https://github.com/gokayfem/ComfyUI-Depth-Visualization?tab=readme-ov-file
+# https://github.com/gokayfem/Hanzo Studio-Depth-Visualization?tab=readme-ov-file
 class DepthViewer_:
     @classmethod
     def INPUT_TYPES(cls):
