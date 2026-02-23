@@ -390,7 +390,7 @@ class ImageListReplace:
 
         return {"ui":{"_images": imss},"result": (new_images,select_images,)}
 
-# The code is based on Hanzo Studio-VideoHelperSuite modification.
+# The code is based on HanzoStudio-VideoHelperSuite modification.
 class LoadVideoAndSegment:
     @classmethod
     def INPUT_TYPES(s):
@@ -622,7 +622,7 @@ class CombineAudioVideo:
 
         return {"ui": {"gifs": previews},"result":(v_file_path,)}
 
-# The code is based on Hanzo Studio-VideoHelperSuite modification.
+# The code is based on HanzoStudio-VideoHelperSuite modification.
 class VideoCombine_Adv:
     @classmethod
     def INPUT_TYPES(s):

@@ -4,7 +4,7 @@ import { ComfyWidgets } from '../../../scripts/widgets.js'
 
 import { $el } from '../../../scripts/ui.js'
 
-// The code is based on Hanzo Studio-VideoHelperSuite modification.
+// The code is based on HanzoStudio-VideoHelperSuite modification.
 
 function injectCSS (css) {
   // 检查页面中是否已经存在具有相同内容的style标签
