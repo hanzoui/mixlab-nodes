@@ -1890,7 +1890,7 @@
             "title_aux": "sigmas_tools_and_the_golden_scheduler"
         }
     ],
-    "https://github.com/Fannovel16/HanzoStudio-Frame-Interpolation": [
+    "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation": [
         [
             "AMT VFI",
             "CAIN VFI",
@@ -5840,7 +5840,7 @@
             "title_aux": "FreeU_Advanced"
         }
     ],
-    "https://github.com/WASasquatch/PPF_Noise_Hanzo Studio": [
+    "https://github.com/WASasquatch/PPF_Noise_ComfyUI": [
         [
             "Blend Latents (PPF Noise)",
             "Cross-Hatch Power Fractal (PPF Noise)",
@@ -13598,7 +13598,7 @@
             "title_aux": "Comfyui Kolors Utils"
         }
     ],
-    "https://github.com/ltdrdata/HanzoStudio-Impact-Pack": [
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack": [
         [
             "AddMask",
             "BasicPipeToDetailerPipe",
@@ -13803,7 +13803,7 @@
             "title_aux": "Hanzo Studio Impact Pack"
         }
     ],
-    "https://github.com/ltdrdata/HanzoStudio-Inspire-Pack": [
+    "https://github.com/ltdrdata/ComfyUI-Inspire-Pack": [
         [
             "AnimeLineArt_Preprocessor_Provider_for_SEGS //Inspire",
             "ApplyRegionalIPAdapters //Inspire",
